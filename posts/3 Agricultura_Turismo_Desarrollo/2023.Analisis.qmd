@@ -1,0 +1,143 @@
+---
+title: "Análisis de la agricultura protegida y sus impactos socioambientales en tres municipios de la Sierra Nevada de Puebla, México"
+author: "Martin Neri-Suárez"
+categories: [Agricultura, Turismo, Desarrollo Regional]
+---
+
+## ![](images/WhatsApp%20Image%202026-10-23%20at%209.46.08%20AM.jpg)
+
+## RESUMEN
+
+**Objetivo:** Analizar cómo el crecimiento de la agricultura protegida y los cambios en los granos básicos están transformando el territorio y la seguridad alimentaria en la Sierra Nevada de Puebla.
+
+***Contexto***
+
+-   Inseguridad alimentaria problema socioambiental gran magnitud, global y México. Políticas desarrollo y gobierno han descuidado dimensión cultural sistemas producción tradicionales, llevando a subestimado reconocimiento valor socioeconómico y cultural cultivo maíz en comunidades locales (FAO 2022; Lemos Figueroa et al 2018).
+
+-   Agricultura subsistencia o campesina, basada en cultivo intercalado maíz con frijol, calabaza y otras especies, papel crucial obtención alimentos, forraje y combustible, componente clave sistemas vida comunidades indígenas y pequeños agricultores (Díaz-Carreño et al 2016; Urquía-Fernández 2014).
+
+-   Disminución producción maíz y frijol, a pesar importancia cultural y subsistencia, plantea preocupaciones sobre preservación práctica tradicional e impacto identidad cultural. Degradación suelo y pérdida productividad agrícola factores contribuyen inseguridad alimentaria (Cotler et al 2020).
+
+\- En contraparte, México superficie agricultura protegida incremento *12% anual*, estados norte mayor cantidad. Si no se adaptan a estas condiciones, pobladores locales se ven obligados a migrar (Sosa Cabrera & González Amaro 2021).
+
+***Metodología***
+
+-   *Diseño observacional cuantitativo* recopilación datos superficie cultivos básicos y agricultura protegida en municipios *Chiautzingo, San Salvador el Verde y San Felipe Teotlalcingo*, ubicados región Sierra Nevada de Puebla.
+
+-   Datos obtenidos *Sistema de Información Agroalimentaria y Pesquera (SIAP)* periodo *2003-2021* para cultivos básicos, y *2012-2021* para agricultura protegida.
+
+\- Cultivos básicos: *maíz grano y frijol* representativos producción agrícola cultivos básicos.
+
+-   Agricultura protegida: *tomate rojo, frambuesa, crisantemo y rosa* seleccionados por importancia en agricultura protegida y relevancia económica.
+
+\- *Procesamiento:* Correlación de Pearson para medir relación superficie cada cultivo (frijol, maíz grano, tomate rojo, crisantemo, rosa, frambuesa). Correlación -1 a 1, cercana 1 positiva fuerte, -1 negativa fuerte, 0 débil/nula. Matriz cuadrada coeficientes entre pares.
+
+\- Gráficos series tiempo datos históricos superficie cada cultivo 2003-2021 y agricultura protegida 2012-2021. Cálculo Pearson y gráficos en *software R*.
+
+***Resultados***
+
+***1. Relación superficie cultivos básicos y agricultura protegida***
+
+*:* - Correlaciones positivas cercanas 1: *rosa - crisantemo 0.93* ambos bajo agricultura protegida. *Frambuesa - tomate rojo 0.92* también protegida.
+
+-   Cultivos básicos maíz grano - frijol: relación lineal más débil *0.51*.
+
+\- Correlaciones *negativas* entre superficie maíz grano y frijol con cultivos frutas, flores y hortalizas, destacando relación inversa *rosa - maíz grano -0.88*. Indica que a medida que aumenta superficie agricultura protegida, superficie destinada cultivos básicos disminuye.
+
+-   Otros valores: maíz-frijol 0.51, maíz-tomate -0.86, maíz-frambuesa -0.65, maíz-crisantemo -0.75, maíz-rosa -0.88; frijol-tomate -0.47, frijol-frambuesa -0.4, frijol-crisantemo -0.69, frijol-rosa -0.82; tomate-frambuesa 0.92, tomate-crisantemo 0.77, tomate-rosa 0.94; frambuesa-crisantemo 0.71, frambuesa-rosa 0.79; crisantemo-rosa 0.93.
+
+***2. Patrones aumento/disminución** :*
+
+\- A partir *2015* incremento superficie cultivos frutas, flores y hortalizas en agricultura protegida. Crecimiento: ***rosa 11%, tomate rojo 38%, frambuesa 3%, crisantemo 1%*****.**
+
+\- Maíz grano tasa negativa ***-2%***, frijol tendencia baja ***-5%*****.**
+
+***3. Dinámica crecimiento agricultura protegida** :*
+
+-   Chiautzingo mayor superficie y crecimiento constante, San Felipe Teotlalcingo crecimiento constante pero más lento desde inicio 2016, San Salvador el Verde disminución después periodo inicial crecimiento.
+
+\- En conjunto tres municipios ***crecimiento anual 16%***, supera media nacional 12% (SADER 2022). Aumento cultivos frutas, flores, hortalizas en protegida, mientras maíz y frijol tendencia disminución desde 2013.
+
+*4. **Distribución espacio-temporal**:*
+
+\- A partir 2015 prevalece uso *invernaderos* como forma predominante agricultura protegida, seguido por *macrotúneles* menor medida. Concentración en *Chiautzingo*, seguido San Salvador el Verde, San Felipe Teotlalcingo distribución más dispersa. Municipios aledaños menor presencia.
+
+***Discusión***
+
+\- Agricultura protegida, especialmente invernaderos y macrotúneles, permite aumentar producción en entorno controlado regula condiciones climáticas, reduce evaporación agua y protege cultivos desastres meteorológicos y climáticos (Agüera & Liu 2009; Yang et al 2017). Sin embargo mal uso plásticos invernaderos consecuencias ambientales negativas. Películas plásticas difíciles reciclar, muchos casos se dejan en suelo después cosecha, acumulación plásticos. Con tiempo se descomponen en *microplásticos*, alteran propiedades suelo y reducen fertilidad (De Souza Machado et al 2019). Además microplásticos pueden dañar comunidad biológica suelo, incluyendo lombrices tierra, dificulta crecimiento plantas y afecta calidad cultivos (Giorgetti et al 2020; Huerta Lwanga et al 2016; Rillig 2012). Necesario adoptar medidas minimizar impacto y explorar alternativas sostenibles.
+
+\- Agricultura subsistencia basada milpa intercalada maíz con frijol, calabaza y otras especies se practica ampliamente en México, papel fundamental obtención alimentos, forraje, combustible (Perales et al 2005; Turrent Fernández et al 2017). En Sierra Nevada Puebla se cultiva sistema *milpa intercalada con árboles frutales*, destacado ejemplo sistema agrícola combina tradición y sostenibilidad. Agroecosistema basado modelo intensificación milpa y utiliza tecnología *terrazas de muro vivo* para reducir erosión hídrica suelo en terrenos pendiente (Covaleda et al 2016; Turrent-Fernández et al 2016). Beneficios: aumento ingreso neto y empleo familiar, protección suelo, producción alimentos básicos, captura carbono atmosférico y edáfico.
+
+\- Políticas desarrollo agrícola han considerado maíz únicamente desde perspectiva económica, sin reconocer importancia organización socioeconómica y cultural comunidades locales. Esto refleja correlación negativa cultivos básicos y comerciales: si se mantienen patrones actuales, superficie maíz y frijol continuará disminuyendo mientras incrementan cultivos comerciales en invernadero. Patrón disminución explicado porque políticas han descuidado dimensión social y cultural sistemas producción tradicionales (Frece & Poole 2008). Antecedentes respaldan eficiencia importancia sistemas agroecológicos como milpa en Sierras Templadas Puebla, donde son comunes y contribuyen significativamente seguridad alimentaria (Galeana-Pizaña et al 2021).
+
+***Conclusión***
+
+-   Análisis evolución histórica reveló tendencia decreciente producción maíz y frijol, mientras incremento constante y aglomeración agricultura protegida dedicada cultivos comerciales flores, frutas y hortalizas. Crecimiento debido creciente popularidad, impulsada por programas apoyo y subsidios gobierno que se aplicaron región *hasta 2020*. Sin embargo aumento conlleva importantes impactos socioambientales negativos.
+
+\- Necesidad considerar dimensión cultural sistemas producción tradicionales e importancia cultivos básicos para seguridad alimentaria local. Urgencia implementar sistemas agrícolas sostenibles como *milpa intercalada con árboles frutales*, y prestar especial atención uso plásticos derivados agricultura protegida. Crucial abordar problemática socioambiental asociada inseguridad alimentaria y contaminación región. - Estudio proporciona línea base sólida para comprender relación entre agricultura protegida, seguridad alimentaria y sostenibilidad. Identifica áreas clave futuras investigaciones: desarrollo estrategias más efectivas minimizar impacto ambiental uso plásticos en sistemas protegida, y exploración enfoques integrados consideren aspectos sociales, económicos, ambientales y culturales para promover agricultura sostenible holística y efectiva.
+
+-   *Limitante:* análisis datos producidos en plataformas gubernamentales como SIAP puede presentar inconsistencias e imprecisiones. No obstante representan fuentes oficiales disponibles y utilizados para visión general. Fundamental considerar implicaciones políticas gubernamentales e intervenciones desarrollo en sostenibilidad económica, ambiental y cultural sistemas agrícolas, necesidad evaluación exhaustiva y enfoque integral futuras investigaciones.
+
+*Palabras clave:* agricultura protegida; seguridad alimentaria; impactos socioambientales; sistemas agrícolas sostenibles.
+
+**Referencias**
+
+<https://revista.religacion.com/index.php/religacion/article/view/1061>
+
+------------------------------------------------------------------------
+
+## *Analysis of Protected Agriculture and its Socio-Environmental Impacts in Three Municipalities of the Sierra Nevada in Puebla, Mexico*
+
+**Abstract**
+
+***Objective***
+
+To analyze spatio-temporal changes in cultivated area of protected agriculture and basic grains in three municipalities of Sierra Nevada Puebla, and their socio-environmental implications in territory transformation. To know how these two agricultural production systems affect local food security and how they can be improved to achieve balance between productivity and environmental sustainability, with particular attention to protected agriculture due to its growing popularity and possible impacts.
+
+***Introduction***
+
+Food insecurity major socio-environmental problem globally and Mexico. Development and government policies neglected cultural dimension of traditional production systems, leading to underestimated socioeconomic and cultural value of maize cultivation in local communities. Subsistence / peasant agriculture based on intercropped maize with bean, squash and other species plays crucial role in obtaining food, forage and fuel, key component of life systems of indigenous communities and small farmers. Decrease in maize and bean production despite cultural importance and subsistence role raises concerns about preservation of traditional practice and impact on cultural identity. Soil degradation and loss agricultural productivity factors contribute to food insecurity. In contrast, Mexico protected agriculture surface has increased 12% annually, northern states highest. If not adapted, local inhabitants forced to migrate.
+
+***Methodology***
+
+\- Quantitative observational design, data collection basic crops and protected agriculture surface in *Chiautzingo, San Salvador el Verde and San Felipe Teotlalcingo*, Sierra Nevada Puebla region.
+
+\- Data from ***SIAP (Agri-food and Fisheries Information Service)*** period *2003-2021* for basic crops, *2012-2021* for protected agriculture.
+
+\- Basic crops: ***grain maize and bean*****.** Protected agriculture: ***red tomato, raspberry, chrysanthemum and rose*****,** selected for importance and economic relevance.
+
+\- Processing: Pearson correlation to measure relationship between surface of each crop, matrix -1 to 1. Time-series graphics historical data. Analysis in *R software*.
+
+***Results***
+
+-   *Correlation matrix:* Positive near 1: *rose-chrysanthemum 0.93*, *raspberry-red tomato 0.92*. Basic crops maize-bean weaker *0.51*. Negative correlations between maize/bean and commercial fruit, flower, vegetable crops, highlighting inverse *rose - grain maize -0.88*. As protected agriculture surface increases, basic crops surface decreases.
+
+\- *Growth rates from 2015:* **rose *+11%*, red tomato *+38%*, raspberry *+3%*, chrysanthemum *+1%*. Grain maize *-2%*, bean *-5%*.**
+
+\- *Protected agriculture dynamics:* Chiautzingo largest surface and constant growth, San Felipe Teotlalcingo constant but slower growth since 2016, San Salvador el Verde decrease after initial growth. Together three municipalities *16% annual growth*, exceeds national average 12% (SADER 2022). Increase fruit, flower, vegetable in protected, while maize and bean decreasing trend since 2013.
+
+\- ***Spatio-temporal distribution :*** From 2015 predominates *greenhouses* as predominant form, followed by macrotunnels. Concentration in Chiautzingo, then San Salvador el Verde, San Felipe Teotlalcingo more dispersed. Neighboring municipalities lower presence.
+
+***Discussion***
+
+\- Protected agriculture, especially greenhouses and macrotunnels, allows increased production in controlled environment regulating climatic conditions, reducing water evaporation and protecting crops from meteorological disasters. However misuse of plastics negative environmental consequences. Plastic films difficult to recycle, often left in soil after harvest, accumulate, decompose into *microplastics*, alter soil properties and reduce fertility, damage soil biological community including earthworms, hinder plant growth and affect crop quality. Need measures to minimize impact and explore sustainable alternatives.
+
+-   Subsistence agriculture based on *milpa* intercropped maize with bean, squash etc widely practiced, fundamental for food, forage, fuel. In Sierra Nevada Puebla, *milpa intercropped with fruit trees* is outstanding example combining tradition and sustainability, based on milpa intensification model and *living wall terraces* technology to reduce water erosion on slope lands. Benefits: increased net income and family employment, soil protection, basic food production, atmospheric and edaphic carbon capture.
+
+-   Agricultural development policies have considered maize only from economic perspective, without recognizing importance in socioeconomic and cultural organization of local communities. Negative correlation basic vs commercial implies if current patterns maintained, maize and bean surface will continue decreasing while commercial greenhouse crops increase. Policies neglected social and cultural dimension of traditional production systems. Supports efficiency of agroecological systems like milpa in Temperate Sierras Puebla, contributing significantly to food security.
+
+***Conclusion***
+
+-   Historical evolution revealed decreasing trend in maize and bean production, while constant increase and agglomeration of protected agriculture dedicated to commercial flower, fruit and vegetable crops. Growth due to growing popularity, driven by government support programs and subsidies applied in region *until 2020*. However increase carries important negative socio-environmental impacts.
+
+\- Need to consider cultural dimension of traditional production systems and importance of basic crops for local food security. Urgency to implement sustainable agricultural systems such as *milpa intercropped with fruit trees*, and pay special attention to plastics from protected agriculture. Crucial to address socio-environmental problem associated with food insecurity and contamination.
+
+\- Study provides solid baseline to understand relationship between protected agriculture, food security and sustainability. Key future research: more effective strategies to minimize environmental impact of plastic use in protected agriculture, and integrated approaches considering social, economic, environmental and cultural aspects to promote sustainable agriculture holistically.
+
+\- ***Limitation:*** data from government platforms like SIAP may present inconsistencies and inaccuracies, but represent official sources available for general overview. Need to consider implications of government policies and development interventions on economic, environmental and cultural sustainability, need comprehensive evaluation and integral approach.
+
+***Keywords:*** protected agriculture; food security; socio-environmental impacts; sustainable agricultural systems.
+
+## References
+
+<https://revista.religacion.com/index.php/religacion/article/view/1061>

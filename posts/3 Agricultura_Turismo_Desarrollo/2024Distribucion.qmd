@@ -1,0 +1,106 @@
+---
+title: "Distribución equitativa y justa de alimentos"
+author: "Martin Neri-Suárez"
+categories: [Agricultura, Turismo, Desarrollo Regional]
+---
+
+## ![](images/WhatsApp%20Image%202026-10-23%20at%2010.22.28%20AM.jpg)
+
+## RESUMEN
+
+**Objetivo:** Analizar la dependencia alimentaria en México, sus causas y sus efectos, para proponer una distribución de alimentos más justa, soberana y sustentable.
+
+En medio siglo México ha pasado por periodos de autosuficiencia, soberanía, seguridad y más recientemente dependencia alimentaria. A inicios de los ochenta se implementaron medidas de ajuste macroeconómico que ocasionaron incremento en precios de alimentos y decaimiento de productividad del campo. Esto se reflejó en insuficiencia de alimentos y restricción a su acceso, sobre todo para sectores más pobres, obligando a importar (Pedroza 2023). La apertura total del mercado a partir de la firma del *TLCAN en 1994* consolidó la dependencia estructural de granos básicos, desvalorizando bienes alimentarios y desmantelando el grueso de unidades agrícolas: la pequeña producción campesina (Rubio 2008). La gran mayoría de alimentos que llegan a nuestras mesas viajan grandes distancias generando enormes costos ambientales, sociales y económicos, lo que hace necesario políticas públicas para generar cambios en dietas, así como en formas de producción y distribución (Carrascosa-García et al 2020). El desafío de una distribución justa y equitativa está en hacerlo sin comprometer soberanía y seguridad alimentaria, minimizando impacto negativo en medio ambiente y asegurando acervo de recursos naturales a futuras generaciones. Con base en narrativas recuperadas durante mesas de trabajo, entrevistas con actores clave del sistema alimentario y revisión bibliográfica, se presenta escenario actual. Se comienza con importaciones agroalimentarias y se continúa con distribución interna. Finalmente se plantean escenarios ideales y aspectos necesarios.
+
+***Escenario crítico***
+
+***1. Importaciones y sus huellas:*** Se analiza datos sobre importaciones de alimentos, materias primas y alimentos procesados, y sus impactos contabilizados a partir de huella de carbono, huella hídrica y huella social. Se discuten distancia que involucra llegada a aduanas y transporte hacia principales centros de distribución, e implicaciones sobre bases productivas y soberanía.
+
+-   *Huella de carbono:* Ejemplo plátano producido en República Dominicana importado por México, resulta mayor que transporte internacional por barco (Frohmann 2015). Importancia considerar no solo emisiones transporte, sino impacto ambiental de prácticas agrícolas y ciclo de vida completo. Evaluación integral permite mejor comprensión factores que contribuyen cambio climático.
+-   *Agua virtual / huella hídrica:* Volumen agua utilizado en producción, embalaje y distribución se denomina "agua virtual", indicador presión sobre recurso (Hoekstra & Mekonnen 2012). En México volumen agua virtual asociado a productos importados supera al de exportados, con *36,766 millones m³/año frente a 8,892 millones m³/año*, respectivamente. Esto coloca a México en *6° lugar mundial en huella hídrica por importaciones* (Morales et al 2015). En 2017 productos agropecuarios representaron *48%* total agua virtual importaciones, mientras no agropecuarios 29% (CONAGUA-SEMARNAT 2017). Arreguín et al 2007: tres productos con mayores volúmenes agua importada fueron *cereales (118,826 hm³), carnes y despojos comestibles (9,922 hm³) y semillas y frutos (7,436 hm³)*. En 2006 esos productos representaron *83%* total importaciones agua virtual (Tabla 4).
+-   *Huellas sociales:* Cadenas agroalimentarias globales generan impactos laborales, salud ocupacional, empleo vulnerable, inequidad género, trabajo infantil y trabajo forzoso. Flujo mercancías provenientes Asia caracterizado por ser uno mayores a nivel mundial, pero también por prevalencia condiciones laborales deficientes. Estos costos sociales deben ser considerados por países importadores si se busca distribución justa, libre de prácticas laborales cuestionables. Esencial implementar políticas robustas y promover prácticas comerciales responsables (Olmos 2019).
+-   *Distancia que viajan alimentos:* México cuenta con *103 puertos y 15 terminales* por donde ingresan importaciones principalmente de América y Asia (Secretaría de Marina 2022). Importaciones de Asia y gran parte oeste EEUU ingresan principalmente por *Manzanillo y Lázaro Cárdenas*, Colima y Michoacán. Por estos puertos se importan trigo, semilla nabo, avena y sorgo (GRUCAS 2022). Rutas marítimas desde China superan *10,000 km* (Tabla 5).
+-   Principales Puertos y Aduanas de importación y recorrido terrestre a tres ciudades más pobladas. Llegada a aduanas marca inicio largo recorrido interior hacia centros distribución y empresas transformadoras. Productos más consumidos por rol esencial gastronomía nacional deben ser transportados desde puntos entrada hacia centros abasto. Proceso conlleva costos transporte, emisiones CO2, pérdidas y desperdicios por ineficiencias transporte, almacenamiento y distribución.
+-   *Distancias:* Recorrido promedio alimentos importados a zonas metropolitanas más pobladas CDMX, Guadalajara y Monterrey *supera 1,000 km*. Ej. Manzanillo-CDMX 829 km, Guadalajara 295, Monterrey 1,100; Lázaro Cárdenas-CDMX 826, Guadalajara 297, Monterrey 1,098; Veracruz-CDMX 395, Guadalajara 899, Monterrey 943; Progreso-CDMX 1,349, Guadalajara 1,884, Monterrey 2,007; Altamira-CDMX 480, Guadalajara 791, Monterrey 494; Coatzacoalcos-CDMX 600, Guadalajara 1,135, Monterrey 1,257.
+
+***2. Impactos internos de importación:*** OMC 2024 ha reconocido comercio internacional puede generar empleos, pero también factor presión para productores en países importadores. Levy y van Wijnbergen 1992 predijeron liberalización maíz afectaría sobre todo más pobres, elevaría desempleo, disminuiría salarios rurales y aumentaría migración campo-ciudades y hacia EEUU. Importaciones afectan directamente campesinos que enfrentan competencia desleal EEUU por bajos precios importados. Otro factor falta políticas públicas a favor pequeños productores que faciliten participación mercados (El-Hage y Hattan 2003). Se priorizan importaciones e inversión Estado insuficiente para verdadera transformación campesinado (Rubio 2014). Afectaciones a bases productivas conllevan incremento precio alimentos canasta básica, impacta negativamente consumidor y aumenta personas en pobreza alimentaria (Rubio 2014). Como consecuencia se ha abandonado paulatinamente producción básica, agudizando dependencia. Caso Ortiz-Alamilla et al 2023: región Altiplano Puebla históricamente maíz y frijol sistema milpa, ahora disminución superficie producción cultivos básicos, en contraste agricultura protegida crecimiento constante, especialmente flores, frutas y hortalizas. Cambio refleja relación inversa cultivos comerciales y básicos, conlleva importantes impactos socioambientales negativos.
+
+***3. Distribución al interior del país**:* México cuenta con extensa red canales distribución, centrales de abasto juegan papel crucial. No solo reciben productos importados, sino también sirven como centros acopio producción nacional. Alimentos producidos también viajan grandes distancias por especialización agrícola en ciertas regiones. Ejemplos: *tejocote recorre 609 km desde San Andrés Calpan, Puebla, hasta fábrica Valle Redondo en Aguascalientes, emitiendo 0.23 ton CO2eq.*
+
+\- Lugar producción principales productos consumidos: Huevo Jalisco, Puebla, Sonora, SLP, Yucatán; Leche Jalisco, Coahuila, Durango, Chihuahua, Guanajuato; Papa Sonora, Sinaloa, México, Veracruz, NL; Cebolla Chihuahua, Guanajuato, Zacatecas, Michoacán, Tamaulipas; Calabacita Sonora, Puebla, Sinaloa, Michoacán, Hidalgo; Chile serrano Chihuahua, Sinaloa, Zacatecas, SLP, Jalisco; Jitomate Sinaloa, SLP, Michoacán, Jalisco, BCS; Tomate verde Sinaloa, Zacatecas, Jalisco, Puebla, Michoacán; Frijol Zacatecas, Sinaloa, Nayarit, Chihuahua, Chiapas; Limón Veracruz, Michoacán, Colima, Oaxaca, Tamaulipas; Manzana Chihuahua, Coahuila, Puebla, Veracruz, Durango; Plátano Chiapas, Tabasco, Veracruz, Colima, Jalisco. Fuente ENIGH 2020 y SIAP 2023. Muchos alimentos no llegan a ser distribuidos por exigencia mercado en aspectos, falta infraestructura y pérdida alimentos debido a estándares mercado y competencia desleal contribuyen inseguridad y pobreza alimentaria.
+
+***Aspectos para distribución equitativa y justa***
+
+***Ámbito productivo nacional:***
+
+1\. Consenso actores nacionales, campesinos, productores, Estado, universidades, centros investigación y población para impulsar en todos espacios posibles producción alimentaria básica como estrategia soberanía política, incluidos espacios urbanos y fomentar espacios rurales aledaños ciudades que produzcan y transformen alimentos.
+
+2\. Producción agrícola, pecuaria y acuícola se articula para distribuir productos local y regional con alianzas productores, transformadores, comercializadores y consumidores.
+
+3\. Programas recuperación productiva deben sustentarse en pequeños productores, agricultura familiar, barrial y comunitaria, tanto urbano como rural.
+
+4.  Gobierno debe poner especial atención solución conflictos agrarios medio rural asociados despojo y venta ilegal terrenos en ejidos y comunidades para alentar desarrollo y productividad campo, ya que cuentan con enorme capacidad productiva y generación servicios ambientales no aprovechada.
+
+5.  Organizaciones productores en alianza distribuidores, transformadores y consumidores fundamentales para mantener distribución equitativa local, regional y estatal.
+
+6\. Para reducir pérdida y desperdicio alimento, de la mano universidades considerar en cadenas valor capacitación, educación y habilidades capital humano, particularmente excedentes derivados distribución.
+
+7.  Incorporar procesos sustentables embalaje.
+
+***Distribución alimentos nacionales e importados***
+
+1\. Estado autoriza incentivos para distribución alimentos que hagan recorridos kilometraje cortos y se gestionen bajo trabajo red y colectivo.
+
+2.  Secretarías movilidad urbana incentivan creación y mejora rutas transporte público con destino a centros abasto y distribución. Vialidades óptimas agilizando traslados. Beneficia productores y comerciantes, acortan distancias centros productores y distribución, disminuye tiempos transporte e incrementa posibilidades lleguen óptimas condiciones.
+
+3\. Municipios y estados integran zonas más alejadas con centros económicos regionales a través rehabilitación y mantenimiento caminos rurales y secundarios, aumento acceso caminos permite ampliación mercados alimentos.
+
+4\. Secretarías salud y comercio exterior implementar regulaciones comerciales que disminuyan importación y consumo comida rápida y ultra procesados a través incremento pago impuestos.
+
+5\. Empresas públicas y privadas tomar conciencia cálculo y reducción huella carbono, además factor diferenciación, etc. Adoptar prácticas sostenibilidad, reduzcan huella carbono y promuevan tecnologías limpias.
+
+***Conclusiones***
+
+Investigación sugiere con enfoque coordinado actores nacionales, implementación políticas efectivas y promoción prácticas sostenibles, México puede avanzar hacia sistema alimentario más autónomo, justo y equitativo. Elevados costos económicos importación alimentos que no logran cubrir necesidades alimenticias población pueden contrarrestarse mediante producción y fortalecimiento red distribución alimentos, pilares economía local y regional. Esto no solo fortalecerá soberanía alimentaria, sino también contribuirá preservación medio ambiente y bienestar social y económico comunidades productoras. Se proponen estrategias clave: reactivación agricultura nacional y cinturones verdes, priorización alimentos frescos y saludables, implementación regulaciones comerciales para desincentivar importación productos no sostenibles.
+
+## Referencias
+
+<https://www.researchgate.net/publication/386145336_Distribucion_equitativa_y_justa_de_alimentos>
+
+------------------------------------------------------------------------
+
+## *Equitable and Fair Food Distribution*
+
+***Introduction***
+
+In half a century Mexico has passed through periods of self-sufficiency, sovereignty, security and more recently food dependence. In early 1980s macroeconomic adjustment measures increased food prices and decayed field productivity, reflected in food insufficiency and restricted access, especially for poorest sectors, forcing country to import. Total market opening from *NAFTA 1994* consolidated structural dependence on basic grains, devaluing food goods and dismantling bulk of agricultural units: small peasant production. Most food reaching tables travels great distances generating huge environmental, social and economic costs, requiring public policies to change diets and production/distribution forms. Challenge of fair and equitable distribution is to do it without compromising food sovereignty and security, minimizing negative environmental impact and ensuring natural resources for future generations. Based on narratives from workshops, interviews with key actors and literature review, current scenario presented, starting with agri-food imports, continuing with internal distribution, finally ideal scenarios and necessary aspects.
+
+***Critical Scenario***
+
+***1. Imports and footprints:*** Analysis of imports of food, raw materials and processed foods, impacts accounted from carbon footprint, water footprint and social footprint. Distance involved arrival to customs and transport to main distribution centers, implications on productive bases and sovereignty.
+
+-   ***Carbon footprint:*** Example banana from Dominican Republic imported by Mexico higher than international ship transport alone. Need consider not only transport emissions, but agricultural practices and full life cycle.
+
+\- ***Virtual water / water footprint**:* Water used in production, packaging and distribution called "virtual water", pressure indicator. Mexico virtual water associated with imports exceeds exports, *36,766 million m³/year vs 8,892 million m³/year*, placing Mexico *6th worldwide in water footprint by imports*. In 2017 agri-food products represented *48%* of total virtual water imports, non-agri-food 29%. Top products: *cereals (118,826 hm³), meats and edible offal (9,922 hm³) and seeds and fruits (7,436 hm³)*. In 2006 those represented *83%* of total virtual water imports.
+
+\- ***Social footprints**:* Global agri-food chains generate labor, occupational health, vulnerable employment, gender inequity, child labor and forced labor impacts. Flow from Asia one of largest worldwide, but also prevalence of deficient labor conditions. Social costs must be considered by importing countries for fair distribution free of questionable labor practices. Need robust policies and responsible commercial practices.
+
+\- ***Distance food travels:*** Mexico has *103 ports and 15 terminals* where imports enter mainly from America and Asia. Imports from Asia and much of western US enter mainly through *Manzanillo and Lázaro Cárdenas*, Colima and Michoacán, importing wheat, turnip seed, oats and sorghum. Maritime routes from China exceed *10,000 km*.
+
+-   ***Distances:*** Average imported food to CDMX, Guadalajara, Monterrey *exceeds 1,000 km*. E.g. Manzanillo-CDMX 829 km, Guadalajara 295, Monterrey 1,100; Lázaro Cárdenas-CDMX 826, Guadalajara 297, Monterrey 1,098; Veracruz-CDMX 395, Guadalajara 899, Monterrey 943; Progreso-CDMX 1,349, Guadalajara 1,884, Monterrey 2,007. - *Origin 2023:* US: maize, pork/beef/poultry meat, soybean, sugars, apples, cheeses, milk, bread; China: fish, pepper, sugars, canned fish, crustaceans, animal feed preparations, prepared fruits, juices, dried vegetables, malt, peanuts, dried fruits, etc.
+
+***2. Internal impacts of imports:*** WTO 2024 recognized international trade can generate jobs but also pressure for producers in importing countries. Liberalization of maize would affect poorest, raise unemployment, decrease rural wages and increase migration. Imports directly affect peasants facing unfair competition from US due to low imported prices. Lack of public policies for small producers facilitating market participation. Imports prioritized and state investment insufficient for true transformation. Affectations to productive bases increase basic basket food prices, negatively impact consumer and increase food poverty. Consequently basic production gradually abandoned, aggravating dependence. Case Ortiz-Alamilla et al 2023: Puebla Altiplano historically maize-bean milpa, now decrease in basic crops surface, while protected agriculture constant growth, especially flowers, fruits, vegetables. Reflects inverse relation commercial vs basic crops, with negative socio-environmental impacts.
+
+***3. Internal distribution:*** Mexico has extensive distribution channels, supply centers play crucial role, receiving imported products and as collection centers for national production. National foods also travel large distances due to agricultural specialization. Example *tejocote travels 609 km from San Andrés Calpan, Puebla, to Valle Redondo factory in Aguascalientes, emitting 0.23 tons CO2eq.* Main products table: Egg Jalisco, Puebla, Sonora, SLP, Yucatán; Milk Jalisco, Coahuila, Durango, Chihuahua, Guanajuato; Potato Sonora, Sinaloa, Mexico, Veracruz, NL; etc. Many foods not distributed due to market standards, lack infrastructure and food loss due to market standards and unfair competition contribute to food insecurity and food poverty.
+
+***Aspects for equitable and fair distribution***
+
+*National productive scope:* Consensus among national actors, peasants, producers, State, universities, research centers and population to promote basic food production in all possible spaces as political sovereignty strategy, including urban spaces and rural spaces near cities; articulate agricultural, livestock and aquaculture production to distribute locally/regionally with alliances; recovery programs based on small producers, family, neighborhood and community agriculture, urban and rural; government solve agrarian conflicts associated with dispossession and illegal sale of land in ejidos/communities; producer organizations in alliance with distributors, transformers and consumers fundamental; reduce food loss/waste with universities training; incorporate sustainable packaging. *Distribution of national and imported foods:* State incentives for short-kilometer distribution managed under network and collective work; urban mobility secretariats incentivize public transport routes to supply centers, optimal roads shortening distances and times; municipalities integrate far zones with regional economic centers through rehabilitation of rural/secondary roads; health and foreign trade secretariats implement commercial regulations decreasing import and consumption of fast food and ultra-processed via increased taxes; public and private companies calculate and reduce carbon footprint, adopt sustainability practices, reduce carbon footprint and promote clean technologies.
+
+***Conclusions***
+
+With coordinated approach among national actors, effective policies and sustainable practices, Mexico can advance toward more autonomous, fair and equitable food system. High economic costs of food imports that fail to cover population food needs can be counteracted through production and strengthening food distribution network, pillars of local and regional economy. This will not only strengthen food sovereignty, but also contribute to environmental preservation and social and economic well-being of producer communities. Key strategies: reactivation of national agriculture and green belts, prioritization of fresh and healthy foods, commercial regulations to discourage import of unsustainable products.
+
+## References
+
+<https://www.researchgate.net/publication/386145336_Distribucion_equitativa_y_justa_de_alimentos>

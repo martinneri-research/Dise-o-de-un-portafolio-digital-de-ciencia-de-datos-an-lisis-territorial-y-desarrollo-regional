@@ -1,0 +1,92 @@
+---
+title: "Financial inclusion in Puebla, Mexico: a socioeconomic and spatial econometric analysis."
+author: "Martin Neri-Suarez"
+categories: [Análisis territorial urbano y socioeconómico]
+---
+
+![](images/WhatsApp%20Image%202026-10-22%20at%207.47.25%20PM.jpg)
+
+### RESUMEN
+
+***Objetivo:*** Examinar la inclusión financiera utilizando análisis estadísticos y econométricos espaciales para evaluar factores geográficos y socioeconómicos.
+
+***Metodología:***
+
+**- *Población:*** 217 municipios de Puebla.
+
+**- *Variables:*** Densidad de instituciones financieras por cada mil habitantes (bancos, cooperativas, cajas, etc.), Población Económicamente Activa (PEA), rezago educativo, niveles de pobreza, grado de urbanización.
+
+**- *Técnicas:***
+
+1\. Análisis descriptivo de acceso financiero.
+
+2\. ***Índice de Moran*** para medir autocorrelación espacial (si los municipios con muchos bancos están juntos o dispersos).
+
+3\. ***Prueba de Wilcoxon para muestras relacionadas*** para comparar la densidad financiera entre 2021 y 2023.
+
+4\. Análisis LISA (Local Indicators of Spatial Association) para identificar clústeres.
+
+***Resultados principales:***
+
+1.  ***Acceso general:***
+
+    \- *124 municipios tienen al menos un establecimiento financiero.*
+
+    \- *93 municipios carecen totalmente de instituciones financieras.*
+
+2.  ***Evolución temporal (2021 vs 2023)**:*
+
+    -   La prueba de Wilcoxon muestra una *diferencia estadísticamente significativa* en la densidad promedio de instituciones financieras (p = 2.37×10⁻⁹). *Sí aumentó la densidad promedio entre 2021 y 2023.*
+
+3.  ***Análisis espacial - Índice de Moran:***
+
+    \- *2021:* Índice de Moran = 0.109 (correlación espacial débil pero significativa, z = 2.6367, 95% confianza).
+
+    \- *Clúster Alto-Alto (alta inclusión): 5 municipios* concentrados: Coronango (junto a capital Puebla), San José Chiapa, Oriental y Rafael Lara Grajales. Todos forman parte de un conglomerado industrial automotriz (Audi).
+
+    \- *Clúster Bajo-Bajo (alta exclusión): 8 municipios* donde no hay instituciones financieras ni en ellos ni en sus vecinos. - *2023:* Índice de Moran = 0.111 (z = 2.6982). - *Clúster Alto-Alto crece a 7 municipios*, se suman San Salvador el Seco y Soltepec por cercanía a zonas de alta densidad.
+
+    \- *Clúster Bajo-Bajo se mantiene en 8 municipios.* Persiste la exclusión.
+
+    \- *Conclusión espacial:* Hay un patrón de agrupamiento persistente que favorece a los municipios ya incluidos y perjudica a los excluidos.
+
+4.  ***Factores socioeconómicos**:*
+
+    \- Los municipios con *mayor Población Económicamente Activa (PEA) y menores niveles de rezago educativo tienden a tener mejor inclusión financiera.* - *No se observaron diferencias significativas en los niveles de pobreza* entre municipios con y sin inclusión financiera. La pobreza por sí sola no explica la exclusión.
+
+***Conclusiones y aporte:***
+
+El estudio demuestra que la inclusión financiera en Puebla no es aleatoria, tiene una dimensión geográfica clara. Aunque la densidad promedio subió, la desigualdad espacial se mantiene. Los municipios industrializados y urbanizados concentran los servicios. Se necesitan *políticas públicas específicas y territoriales* (no solo nacionales), que consideren la dimensión geográfica para llevar servicios financieros a los 93 municipios sin cobertura. La urbanización y el desarrollo económico están vinculados a mayor inclusión.
+
+***Palabras clave:*** *desarrollo económico, exclusión financiera, instituciones financieras, municipios mexicanos, pobreza.*
+
+**Referencias**
+https://revistas.unal.edu.co/index.php/dyna/article/view/111418/92179
+
+
+------------------------------------------------------------------------
+
+### Abstract
+
+***Objective:*** To examine financial inclusion in the 217 municipalities of Puebla, Mexico, using statistical and Moran Index spatial analysis to evaluate geographic and socioeconomic factors.
+
+***Methodology:***
+
+Density of financial institutions per thousand inhabitants in 2021 and 2023, Wilcoxon test for related samples, Moran's Index for spatial autocorrelation, LISA clusters, and socioeconomic variables (economically active population, educational lag, poverty).
+
+***Key Results:***
+
+-   *124 municipalities have at least one financial institution; 93 have none.*
+-   *Significant increase in average density between 2021-2023* (Wilcoxon p = 2.37e-9).
+-   *Moran Index 2021 = 0.109 (z=2.6367) and 2023 = 0.111 (z=2.6982):* Weak but statistically significant positive spatial autocorrelation.
+-   *High-High cluster (2021): 5 municipalities* - Coronango, San José Chiapa, Oriental, Rafael Lara Grajales - automotive industrial corridor.
+-   *High-High cluster (2023): 7 municipalities* - adds San Salvador el Seco and Soltepec.
+-   *Low-Low cluster (high exclusion): 8 municipalities persistent* in both years - no financial institutions in them or surrounding areas.
+-   *Socioeconomic drivers:* Municipalities with higher economically active population and lower educational lag have better financial inclusion. No significant differences in poverty levels between included/excluded municipalities.
+
+***Conclusion:***
+
+Financial inclusion in Puebla shows a persistent clustering pattern that favors already inclusive municipalities. Despite overall growth, spatial inequality remains. Urbanization and economic development are linked to inclusion. Findings underline the need for targeted, place-based public policies that consider geographic dimension in financial inclusion planning.
+
+## References:
+https://revistas.unal.edu.co/index.php/dyna/article/view/111418/92179

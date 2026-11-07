@@ -1,0 +1,91 @@
+---
+title: "Automation of Fiscal Auditing in SMEs through a Sequential Algorithm for Extracting Tax Receipts: A Focus on the Digital Economy"
+author: "Martin Neri-Suarez"
+categories: [Ciencia de datos, Algoritmos, Optimización]
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+## ![](images/a-diagram-of-a-diagram-of-a-tax-ai-generated-cont%20(1)-01.jpeg)
+
+## Resumen
+
+**Objetivo del estudio:** Automatizar la auditoría de CFDI para que las PYMES cumplan sus obligaciones fiscales con menos tiempo, costo y errores.
+
+**Problemática:**
+
+En México, el SAT ha automatizado al 100% su fiscalización.
+Confronta en tiempo real los CFDI (Ingresos, Egresos, Nómina, Complementos de Pago REP) contra declaraciones.
+Las PYMES siguen haciendo la revisión manual, lo que provoca cartas invitación, vigilancia profunda y bloqueo de Certificados de Sello Digital (CSD) por discrepancias mínimas.
+
+**Metodología - Algoritmo Secuencial propuesto:** El artículo describe un flujo de 4 fases:
+
+1.  Extracción masiva: Descarga automática desde el portal del SAT / Web Service de todos los XML (emitidos y recibidos).
+2.  Clasificación y parsing: El algoritmo secuencial lee cada XML, extrae RFC, UUID, tipo de comprobante (PUE, PPD), IVA trasladado/acreditable, retenciones.
+3.  Confronta automatizada: Replica la lógica del SAT:
+
+-   Ingresos nominales vs. facturación PUE/PPD
+
+-   IVA trasladado vs. REP cobrados
+
+-   Nómina deducible vs. límite del Art. 28 Frac.
+    XXX LISR
+
+-   Proveedores vs. lista negra 69-B (EFOS)
+
+-   Reporte preventivo: Genera dashboard con inconsistencias, CFDI cancelados en otro periodo, y pre-liquidación de impuestos.
+
+**Resultados:**
+
+-   Reducción de hasta 85% del tiempo operativo de auditoría.
+
+-   Eliminación de errores de captura manual.
+
+-   Detección temprana de discrepancias antes de la declaración mensual/anual.
+
+Transforma el rol del contador de digitador a auditor-analista.
+
+**Conclusión:** La automatización no es opcional para las PYMES en la economía digital.
+Implementar un algoritmo secuencial de extracción y confronta de CFDI es una estrategia de defensa fiscal preventiva que evita multas, mantiene la opinión de cumplimiento positiva y permite la toma de decisiones financieras con datos reales y trazables.
+
+*Palabras clave:* *Auditoría fiscal automatizada*, *PYMES*, *CFDI*, *Algoritmo secuencial*, *Economía digital*, *SAT*, *Cumplimiento fiscal*.
+
+## Abstract
+
+**Objective:** To propose and validate an automated system that allows SMEs to meet their tax obligations in the digital economy, reducing time, cost and human errors of manual auditing of Digital Tax Receipts (CFDI).
+
+**Problem:** In Mexico, the SAT (Tax Authority) has 100% automated its auditing process.
+It cross-checks CFDIs (Income, Expenses, Payroll, Payment Receipts REP) against tax returns in real time.
+SMEs still perform manual reviews, leading to invitation letters, deep surveillance audits and blocking of Digital Seal Certificates (CSD).
+
+**Methodology - Proposed Sequential Algorithm:**
+
+A 4-phase flow:
+
+-   Mass extraction: Automatic bulk download of all XMLs (issued and received) from the SAT portal.
+
+-   Classification and parsing: The sequential algorithm reads each XML and extracts RFC, UUID, voucher type (PUE, PPD), transferred VAT, withholdings.
+
+-   Automated cross-check: Replicates SAT's logic: nominal income vs. PUE/PPD invoicing, transferred VAT vs. collected REPs, deductible payroll vs. Art. 28 limit, suppliers vs. 69-B blacklist (EFOS).
+
+Preventive reporting: Generates a dashboard with inconsistencies, CFDIs canceled in other periods, and tax pre-settlement.
+
+**Results:**
+
+-   Up to 85% reduction in audit operational time.
+
+-   Elimination of manual entry errors.
+
+-   Early detection of discrepancies before monthly/annual filing.
+
+-   Transforms the accountant's role from data entry clerk to auditor-analyst.
+
+**Conclusion:**
+
+Automation is not optional for SMEs in the digital economy.
+Implementing a sequential algorithm for CFDI extraction and cross-checking is a preventive tax defense strategy that avoids fines, maintains a positive compliance opinion, and enables financial decision-making with real, traceable data.
+
+## References:
+
+## [ttps://ijcopi.org/ojs/article/view/565/327](ttps://ijcopi.org/ojs/article/view/565/327)

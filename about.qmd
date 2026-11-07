@@ -1,0 +1,17 @@
+---
+title: "Martin Neri Suarez"
+image: images.png
+about:
+  template: jolla
+  links:
+  
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+**PROFESOR INVESTIGADOR DE TIEMPO COMPLETO**
+
+***UNIVERSIDAD POLITECNICA DE PUEBLA***
+
+***Sistema Nacional de Investigadores (SNII-1)***

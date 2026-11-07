@@ -1,0 +1,91 @@
+---
+title: "IMPACTO DEL NEARSHORING EN EL EMPLEO Y EL SECTOR ALIMENTARIO EN PUEBLA Y TLAXCALA."
+author: "MARTIN NERI SUAREZ"
+categories: [Análisis territorial urbano y socioeconómico]
+---
+
+## ![](images/WhatsApp%20Image%202026-10-22%20at%208.36.37%20PM.jpg)
+
+## RESUMEN
+
+**Objetivo:** Analizar cómo el nearshoring afectó la economía, el empleo y las empresas alimentarias de Puebla y Tlaxcala de 2010 a 2023.
+
+
+***1. Introducción - Qué es Nearshoring:***
+
+Se define como trasladar operaciones a países cercanos para aprovechar proximidad geográfica, reducción de costos y mejora en eficiencia de cadena de suministro. Se diferencia del offshoring por su énfasis en cercanía. Cobró impulso global tras crisis de 2008 y pandemia COVID-19, que revelaron vulnerabilidad de cadenas extendidas. En América Latina, México es favorecido por proximidad a EE.UU. y T-MEC (CEPAL, 2022). Puebla y Tlaxcala han incrementado establecimiento de empresas extranjeras por infraestructura logística y entorno favorable para inversión, destacando automotriz y alimentos. El Nearshoring tiene impacto económico (crecimiento empleo), ambiental (reduce huella carbono al minimizar transporte largo) y social (desarrollo más equilibrado y mejores estándares laborales).
+
+***2. Delimitación y Metodología:***
+
+-   *Periodo:* 2010-2023 (permite ver efectos largo plazo).
+
+-   *Fuentes:* DENUE (Directorio Estadístico Nacional de Unidades Económicas) e INEGI (Censo Población y Vivienda 2010, 2020).
+
+-   *Métodos:* Métodos estadísticos avanzados, análisis de densidad de empresas extranjeras vs. Población Económicamente Activa (PEA) usando RStudio y QGIS.
+
+-   *Aporte:* Primera perspectiva localizada en México (literatura previa se centra en norte de México, Norteamérica y Asia).
+
+***3. Resultados:***
+
+1.  *Hallazgo principal:* La presencia de empresas extranjeras *no influye significativamente en la actividad económica local medida por PEA*. No hay correlación directa significativa.
+
+2.  *Variabilidad municipal enorme:*
+
+    -   *Corredor alimentario:* Concentración en *5 municipios principales (4 en Puebla, 1 en Tlaxcala)* que sugiere un corredor industrial bien establecido aprovechando sinergias: proximidad a rutas exportación y clústeres agrícolas.
+    -   *Crecimiento:* Municipios como *Cuautlancingo y Puebla capital* observaron crecimiento notable en número de empresas de alimentos (caso de éxito).
+    -   *Declive:* Municipios como *Atlixco* enfrentaron disminuciones.
+    -   Esto refleja estrategia deliberada de Nearshoring que busca capitalizar cercanía a EE.UU. y factores como accesibilidad logística, costos operativos, disponibilidad recursos humanos/naturales (Tuman y Erlingsson 2020, Garrido 2023).
+
+3.  *Por país de origen:* Disminución significativa de empresas de EE.UU. desde 2010 a 2023 y variabilidad de España, Alemania, Francia. Espacios en blanco en Figura 8 (años sin nuevas entradas) reflejan condiciones desfavorables de mercado o estabilidad de operaciones existentes. La disminución de EE.UU. puede tener consecuencias adversas para proveedores locales y PEA.
+
+*4. Políticas diferenciadas:* Necesidad de políticas adaptadas a cada municipio, no genéricas. Modelos exitosos de Puebla y Cuautlancingo pueden servir de modelo: incentivos fiscales, mejoras infraestructura, programas formación laboral que alineen habilidades locales con necesidades empresas extranjeras.
+
+***Conclusiones:***
+
+\- Nearshoring incrementa presencia empresarial extranjera en ciertos municipios, pero *no resulta en distribución uniforme ni correlación directa con PEA*. La simple presencia no garantiza incremento actividad económica local.
+
+\- Factores adicionales importan más: políticas económicas locales, infraestructura, capacitación laboral.
+
+\- El crecimiento desigual indica que elección de ubicación se basa en logística y costos, pero se necesitan políticas específicas que atraigan, retengan y fomenten desarrollo sostenible y equitativo.
+
+\- Limitaciones: disponibilidad y resolución datos, falta análisis cualitativo de calidad empleo y condiciones laborales.
+
+\- Futuras líneas: análisis cualitativo de integración empresarial, impacto largo plazo sostenible (beneficios económicos vs costos ambientales/sociales).
+
+**Referencias**
+https://smartin.tecnm.mx/documents/Revista36.pdf
+
+------------------------------------------------------------------------
+
+### Abstract
+
+*Impact of Nearshoring on employment and the food sector in Puebla and Tlaxcala*
+
+***Objective:***
+
+Examine Nearshoring impact on regional economies of Puebla and Tlaxcala 2010-2023, focusing on food industry and foreign enterprise density vs. Economically Active Population (PEA).
+
+***Introduction:***
+
+Nearshoring is relocating operations to nearby countries for geographic proximity, cost reduction, supply chain efficiency, boosted after 2008 crisis and COVID-19. Mexico favored by US proximity and USMCA. Puebla/Tlaxcala increased foreign firms due to logistics infrastructure. Benefits: economic (job growth), environmental (reduced carbon footprint), social (balanced development).
+
+***Methodology:*** Advanced statistical methods using DENUE and INEGI data, RStudio and QGIS, 2010-2023 period.
+
+***Results***
+
+\- ***Main finding: No significant direct correlation*** between foreign company density and PEA. Presence alone does not consistently enhance local economic engagement.
+
+\- ***High municipal variability:*** Concentration in 5 main municipalities (4 Puebla, 1 Tlaxcala) suggests well-established food industrial corridor leveraging export routes/agricultural clusters. Cuautlancingo and Puebla grew significantly; Atlixco declined. Reflects deliberate Nearshoring strategy based on logistics accessibility, operational costs, human/natural resource availability.
+
+\- ***By origin:*** Significant decrease in US companies 2010-2023, variability in Spain, Germany, France. Blank spaces in visualizations indicate years without new entries, reflecting market conditions. US decrease could adversely affect local suppliers and PEA.
+
+***Policy implications:***
+
+Need for differentiated policies adapted to each municipality. Successful models (Puebla, Cuautlancingo) include tax incentives, infrastructure improvements, workforce training aligned to foreign firms. Need to integrate foreign firms into local economy to maximize job creation.
+
+***Conclusion:***
+
+Nearshoring offers significant opportunities but unevenly influences local dynamics. Success and sustainability depend on informed, differentiated policies promoting integral and equitable development. Future research should explore qualitative impacts on job quality and long-term sustainable development.
+
+## References
+https://smartin.tecnm.mx/documents/Revista36.pdf

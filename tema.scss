@@ -1,0 +1,21 @@
+/*-- scss:defaults --*/
+$primary: #212529;
+$secondary: #4a5759;
+
+/* principales */
+$body-bg: #f8f9fa; // fondo
+$body-color: #000814; // texto
+$link-color: #03045e; // enlaces
+$border-color: #C7C3B7; // líneas
+$code-block-bg: #C7C3B7; // fondo de código
+
+/* barra de navegación */
+$navbar-bg: #000814;// fondo
+$navbar-fg: #f8f9fa;// texto
+
+/* tipografia */
+@import url('https://fonts.googleapis.com/css2?family=Geist:ital,wght@0,100..900;1,100..900&display=swap');
+
+h1, h2, h3, h4, h5 {
+  font-family: "Geist", sans-serif !important;
+}

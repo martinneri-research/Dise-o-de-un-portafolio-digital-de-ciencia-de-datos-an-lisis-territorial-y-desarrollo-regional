@@ -1,0 +1,103 @@
+---
+title: "Diseño y analisis de corredorres biologicos locales para el ejido Francisco Villa, Tenosique, Tabasco"
+author: "Martin Neri-Suárez"
+categories: [Agricultura, Turismo, Desarrollo Regional]
+---
+
+## ![](images/WhatsApp%20Image%202026-11-07%20at%2012.46.21%20PM.jpg)
+
+## Resumen
+
+**Objetivo:** Desarrollar un diseño de conectividad que contribuya a preservar biodiversidad mediante corredores biológicos.
+
+En el municipio de Tenosique, Tabasco, se encuentra el Área Natural Protegida (ANP) Cañón del Usumacinta decretada en 2008 por SEMARNAT, con 46,128 hectáreas. El Ejido Francisco Villa pertenece a una de las 29 comunidades del ANP, se localiza en un valle entre dos montañas, donde actividades antropogénicas (ganadería extensiva, intensificación agrícola, urbanización y explotación petrolera) han fragmentado la vegetación.
+
+Tabasco: 60% estaba cubierto por selvas, hoy solo quedan remanentes con alto grado de fragmentación (Pozo-Montuy 2006, Tudela 1989 reporta reducción casi 90%). México está entre los 5 países con mayor biodiversidad (10-12% especies conocidas CONABIO 2006) pero también con alto grado de fragmentación y pérdida de hábitat por concentración de especies endémicas (Myers et al 2000 - biodiversity hotspots).
+
+La baja conectividad provoca incremento de parentesco (endogamia), reduce variabilidad genética por consanguinidad, disminuye natalidad e incrementa extinción (CONABIO 2009). Especies reportadas en zona: mono aullador *Alouatta palliata* en riesgo inminente de extinción por fragmentación en Balancán (Estrada & Coates-Estrada 1996), tucán *Ramphastos sulfuratus*, loro corona azul *Amazona farinosa*.
+
+***Materiales y Métodos***
+
+No existe estándar mundial para establecimiento de corredores por diferentes enfoques, objetivos, nivel degradación y escala.
+
+1.  *Diseño:* Fotointerpretación de ortofotos a escala 1:40,000 (INEGI) utilizando Software Quantum GIS. Se identificaron: áreas de hábitat natural o seminaturales a conectar, cercas vivas, árboles dispersos en potreros, plantaciones forestales, huertos familiares, bosque de galería, acahual, posibles rutas para enlazar 2 áreas de hábitat natural.
+
+2.  *Análisis de factibilidad:* Metodología de *Criterios de Análisis de Corredores Biológicos (CCAD-PNUD/GEF, 2002 - Proyecto Para La Consolidación del Corredor Biológico Mesoamericano Serie Técnica 01)*.
+
+    -   Principio: criterios biológicos determinan viabilidad biológica, criterios socio-económicos determinan viabilidad socio-económica e influyen directamente en factibilidad.
+    -   Ponderación: asignar para cada criterio valor 1 a 3 (1 bajo, 2 medio, 3 alto). Obtener puntaje total sumando.
+    -   Factibilidad combinada: Matriz Tabla 3: X factibilidad baja, XX media, XXX alta. Asumiendo que criterios biológicos se cumplen, los socio-económicos determinan factibilidad ya que representan factores de implementación.
+
+***Resultados:*** Se diseñaron *10 grupos de cercos vivos que cumplen función de corredor biológico* para el Ejido.
+
+-   *Evaluación socio-económica:* Total *28 puntos* = viabilidad media (rango 24-47). Criterios evaluados: disponibilidad y apoyo actores locales (3), grado organización y participación comunal (3), tradición uso tierra en armonía (2), estructura tenencia tierra sin conflictos (3), áreas protegidas generan ingresos/empleo (3), apoyo instancias políticas (2), coordinación iniciativas desarrollo rural (3), oportunidades ingreso sostenible manejo forestal/ecoturismo (3), área priorizada para incentivos forestal/turístico (3), bajas tasas cambio uso tierra (3).
+
+-   *Evaluación biológica:* Total *39 puntos* = viabilidad alta (rango 28-39). Criterios: existen parches vegetación natural ancho/longitud variable no menor a 200m ancho (3), estructuras cercas vivas, cortinas rompevientos, plantaciones pequeñas que proporcionan recursos dispersión/abrigo (3), franjas vegetación protección microcuencas (3), cobertura arbórea al menos 30% aunque bosque en diferentes estados sucesionales (3), presencia fauna indicadora buena salud ecosistemas (2), regeneración natural bosque a parches sin vegetación (2), favorece conectividad fragmentos mismo ecosistema (3), proporciona hábitat reproducción/alimentación especies importancia (3), presencia especies amenazadas, endémicas o peligro extinción (3), proporciona conectividad especies vegetales facilitando dispersión semillas (3), heterogeneidad hábitats aunque cobertura \<30% (2), favorece mantenimiento procesos ecológicos naturales paisaje (acuíferos, ecosistemas marinos, clima, ciclos hidrológicos) (3), contribuye mantener muestra representativa (meta 10%) ecosistema nacional/regional (3), permite conectividad entre dos parches ecosistemas gran tamaño y relevancia regional (bosques húmedos, sabanas pinares, humedales) (3).
+
+-   *Factibilidad combinada: ALTA* (viabilidad biológica Alta + socio-económica Media = XXX alta).
+
+***Discusión***
+
+Corredores biológicos comenzaron importancia con observación disminución especies en zonas fragmentadas. Ejemplo Canal Panamá (1907-1913) Río Chagres inundó 425 km2 solo puntas montañas se convirtieron islas, fauna y flora sufrió grandes cambios: \>65 especies aves desaparecieron de 208 que se reproducían. Desaparición grandes depredadores (puma, jaguar, águila harpía) resultó aumento presas (coatíes, agutíes, perezosos y monos aulladores) que modificaron composición vegetación (CONABIO 2009).
+
+Medida mitigación basada en Teoría de Biogeografía de Islas de Robert MacArthur (1930-1972) y Edward O. Wilson (1929): islas pequeñas y/o alejadas tienen menor número especies que islas mayor tamaño y/o cercanas al continente. A finales años 70 se propuso que áreas protegidas aisladas rodeadas por desarrollos agrícolas, pecuarios o urbanos también perderían especies, para evitarlo se tendría que mantener conectividad.
+
+***Conclusiones***
+
+Se diseñaron y evaluaron diez conjuntos de corredores biológicos en el Ejido Francisco Villa. Al ponderar resultados criterios socio-económicos con biológicos se obtuvieron resultados de ***factibilidad alta para establecimiento de corredores*****.** Los factores sociales están por encima de los biológicos para determinar factibilidad. Si un corredor tiene alta viabilidad biológica pero baja socio-económica sería factibilidad media. Similar alta socio-económica pero atributos ecológicos bajos tendrá factibilidad media.
+
+**Propuesta solución**
+
+implementación cercos vivos con especies de la región que funcionen como corredores biológicos en potreros. Cultivos bajo sombra, sistemas agrosilvopastoriles alternativas que pueden contribuir ampliación hábitats especies flora y fauna amenazadas y reducir pérdida biodiversidad causada por actividades antropogénicas.
+
+***Palabras clave:** Corredores Biológicos, Conectividad, Cercos vivos, Diseño*
+
+## Referencias
+
+### <https://www.researchgate.net/publication/315382766_Diseno_y_analisis_de_corredores_biologicos>
+
+### 
+
+------------------------------------------------------------------------
+
+## Abstract
+
+***Design and Analysis of Local Biological Corridors for Ejido Francisco Villa, Tenosique, Tabasco***
+
+***Context***
+
+In Tenosique municipality, Tabasco, the Cañón del Usumacinta Natural Protected Area (46,128 ha) decreed 2008 by SEMARNAT. Ejido Francisco Villa is one of 29 communities in ANP, located in valley between two mountains where anthropogenic activities have fragmented vegetation. Tabasco suffered intense devastation of vegetation by extensive livestock, agricultural intensification, urbanization and oil exploitation. Estimated 60% of state was covered by jungles, today only fragmented remnants remain. Mexico is among 5 most biodiverse countries (10-12% known species) but also highly fragmented. Low connectivity increases inbreeding, reduces genetic variability, decreases birth rates and increases extinction.
+
+**Reported species**
+
+howler monkey *Alouatta palliata* imminent extinction risk, toucan *Ramphastos sulfuratus*, blue-crowned parrot *Amazona farinosa*. Project framed in Mesoamerican Biological Corridor (CBM) started 2000, in Mexico includes 6 southern states.
+
+***Objective:***
+
+Develop connectivity design to preserve biodiversity through biological corridors to restore deforested areas and evaluate feasibility via socio-economic and biological criteria.
+
+***Methodology***
+
+**- *Design:*** Photointerpretation of orthophotos 1:40,000 scale (INEGI) using Quantum GIS software, identifying natural/semi-natural habitat patches, living fences, scattered trees in pastures, forest plantations, home gardens, gallery forest, secondary growth (acahual), possible routes linking 2 natural habitat areas.
+
+**- *Feasibility analysis:*** CCAD-UNDP/GEF 2002 methodology Criteria for Biological Corridors Analysis. Biological criteria determine biological viability, socio-economic criteria determine socio-economic viability. Scoring 1-3 per criterion (low 1, medium 2, high 3), sum total. Socio-economic viability: \<23 Low, 24-47 Medium, 47-69 High. Biological: \<13 Low, 14-27 Medium, 28-39 High. Combined matrix gives Low (X), Medium (XX), High (XXX) feasibility. Socio-economic criteria ultimately determine feasibility as implementation factors.
+
+***Results***
+
+Designed 10 groups of living fences functioning as biological corridors.
+
+-   Socio-economic evaluation: Total 28 = Medium viability. Criteria: availability/support local actors (3), communal organization (3), tradition land use in harmony (2), land tenure structure no conflicts (3), protected areas generate local income/employment (3), political support (2), coordination rural development initiatives (3), opportunities sustainable use income forest/ecotourism (3), area prioritized for forest/tourism incentives (3), low land-use change rates (3).
+-   Biological evaluation: Total 39 = High viability. Criteria include vegetation patches \>=200m wide (3), living fences/windbreaks providing dispersal resources (3), vegetation strips protecting micro-watersheds (3), tree cover \>=30% (3), indicator fauna presence (2), natural regeneration (2), connectivity between habitat fragments same ecosystem (3), breeding/feeding habitat (3), threatened/endemic species presence (3), plant connectivity facilitating seed dispersal (3), habitat heterogeneity (2), maintaining ecological processes (aquifers, marine, climate, hydrological cycles) (3), maintaining representative sample (10% goal) (3), connectivity between large relevant ecosystem patches (3).
+-   Combined feasibility: HIGH (High biological + Medium socio-economic = High).
+
+***Discussion***
+
+Biological corridors gained importance after observing species loss in fragmented zones, e.g., Panama Canal construction 1907-1913 flooded 425 km2, only mountain tops became islands, \>65 bird species disappeared of 208 breeding. Loss of top predators (puma, jaguar, harpy eagle) increased prey modifying vegetation. Mitigation based on Island Biogeography Theory MacArthur & Wilson 1967: small/far islands have fewer species than large/near mainland islands. Late 1970s proposed protected areas isolated in landscape surrounded by agriculture/livestock/urban would also lose species unless connectivity maintained.
+
+***Conclusions***
+
+Ten sets of corridors designed and evaluated. High feasibility for establishment. Social factors above biological for feasibility determination. If high biological but low socio-economic = medium feasibility, and vice versa. Implementation of living fences with regional species, shade crops, agrosilvopastoral systems can contribute to habitat expansion for threatened flora/fauna and reduce biodiversity loss from anthropogenic activities.
+
+## References
+
+<https://www.researchgate.net/publication/315382766_Diseno_y_analisis_de_corredores_biologicos>

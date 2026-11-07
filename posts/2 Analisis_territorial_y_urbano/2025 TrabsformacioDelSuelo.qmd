@@ -1,0 +1,109 @@
+---
+title: "Transformación del suelo agrario en la periferia urbana
+Desposesión, legalización y disputa en Cuautlancingo, Puebla"
+author: "Martin Neri-Suarez"
+categories: [Análisis territorial urbano y socioeconómico]
+---
+
+## ![](images/images%20(2).jpg)
+
+## RESUMEN
+
+**Objetivo:** Identificar las dificultades para la agricultura familiar periurbana en Cuautlancingo, Puebla, a partir de las transformaciones de su territorio.
+
+***Marco teórico: Acumulación por Desposesión (AxD)*** Usa el concepto de David Harvey (2003). La AxD opera de forma simultánea a través de 5 ejes:
+
+1\. *Político-legal:* Políticas neoliberales e intervención estatal
+
+2\. *Urbano-industrial:* Expansión de infraestructuras modernas, megaproyectos
+
+3\. *Mercado:* Especulación inmobiliaria, fraccionadores, crédito a vivienda
+
+4\. *Desplazamiento y transformación sociocultural:* Desplazamiento de comunidades locales, erosión de prácticas tradicionales, violencia y coerción
+
+5\. *Explotación de recursos naturales:* Deforestación y apropiación de recursos
+
+***Metodología:*** Estudio de caso cualitativo. Técnicas: revisión bibliográfica, hemerográfica y estadística (INEGI, SIAP, RAN, IMPLAN, SNIIV), recorridos de campo y observación participante en los 3 ejidos de Cuautlancingo.
+
+***Resultados y principales detonadores históricos:***
+
+-   *1915-1920:* Restitución de tierras y dotación a 3 ejidos.
+-   *1962:* Decreto de expansión territorial del municipio de Puebla (anexa San Jerónimo Caleras, San Felipe Hueyotlipan, San Miguel Canoa, La Resurrección, Totimehuacán) y redefine límites de Cuautlancingo y San Andrés Cholula. Argumento: Puebla tenía 123 km² insuficientes para 336 mil hab. proyectados a 1 millón. + Construcción autopista México-Puebla (inaugurada 5 de mayo 1962) y carretera 5 de mayo. Esto define zonas industriales al norte y habitacionales al sur.
+-   *1965-1966:* Instalación de HYLSA en Xoxtla y Volkswagen en Cuautlancingo, afectando 222.5 ha campesinas. VW alcanza 21.8% mercado en 1966 con 22,220 autos.
+-   *1980:* Más del 60% población ocupada ya en sector terciario/industrial textil.
+-   *1992:* Reforma al Artículo 27 constitucional - permite privatizar ejido. Abre mercantilización. Periodo 1992-2001 ordenamiento propiedad social con PROCEDE (certificación parcelaria y tránsito a dominio pleno).
+-   *1993-1999:* Programa Regional de Desarrollo Angelópolis - plan de ordenamiento territorial que impacta Cuautlancingo.
+-   *Conurbación actual:* Zona Metropolitana Puebla-Tlaxcala (ZMPT) y cercanía a Periférico Ecológico. Corredores industriales, servicios, fraccionamientos.
+
+***Datos duros de transformación (2005-2021):***
+
+-   *Agricultura riego:* de 437 ha a 261 ha (-40.3%)
+
+\- *Agricultura temporal:* de 3,166 ha a 1,749 ha (-44.7%)
+
+\- *Zona urbana:* de 57 ha a 1,660 ha (+2,812% crecimiento)
+
+\- *Total superficie agrícola perdida: \>40%*
+
+\- *Población Cuautlancingo:* 29,047 (1990) → 137,435 (2020) - 4.7 veces más.
+
+-   *Cultivos:* Maíz grano 560 ha en 2021 (-77.9% vs 2015), maíz forrajero 5 ha (2005) a 7 ha (2021), alfalfa verde 68 a 50 ha (-26.5%), manzana 12 ha a 3.65 ha (-69.6%)
+
+***Mecanismo AxD-Legalización-Mercado**:* La desposesión se concreta por vías de legalización: regularización propiedad social, tránsito a dominio pleno, cambios de uso de suelo, expropiaciones e instrumentos de planeación metropolitana que legitiman transferencia de tierra agraria a mercado urbano.
+
+***Conclusiones:***
+
+La urbanización ha reconfigurado profundamente el uso de suelo municipal. Los ejes con mayor peso causal son político-legal, urbano-industrial y mercado. Los ejes sociocultural y explotación de recursos son secundarios coadyuvantes. A pesar de presiones, la identidad campesina persiste: la tierra mantiene valor patrimonial y comunitario, incentivo por ser reconocidos como buenos agricultores. Sin embargo, sin mecanismos efectivos de protección y planificación territorial que limiten cambios de uso en suelo social y valoren funciones múltiples de agricultura periurbana, esta está en riesgo de desaparecer, con implicaciones para seguridad alimentaria local y erosión de prácticas tradicionales, similar a otras regiones del Sur Global.
+**Referencias**
+https://revistas.pucp.edu.pe/index.php/debatesensociologia/es/article/view/31089/28373
+
+
+## Abstract
+
+***Transformation of Agrarian Land in the Urban Periphery: Dispossession, Legalization and Dispute in Cuautlancingo, Puebla (Mexico)***
+
+***Objective:***
+
+To identify the adverse context for peri-urban family farming in Cuautlancingo, Puebla, through a case study analyzing territorial transformations shaping its peri-urban area.
+
+***Framework:***
+
+***Accumulation by Dispossession (AxD)*** - Harvey 2003. Operates simultaneously through legal, economic, urban, cultural and coercive devices. 5 axes: neoliberal policies/state intervention, modern infrastructure expansion, real-estate market/speculation, sociocultural displacement/erosion of traditional practices/violence, natural resource exploitation/deforestation.
+
+***Methodology:*** Case study - bibliographic, hemerographic, statistical review (INEGI, SIAP, RAN), field walks and participant observation in 3 ejidos.
+
+***Historical drivers:***
+
+\- 1915-1920 land restitution to 3 ejidos
+
+\- 1962 Puebla territorial expansion decree annexing 5 municipalities + Mexico-Puebla highway construction → defines industrial north / residential south
+
+\- 1965-66 HYLSA and Volkswagen installation affecting 222.5 ha farmland
+
+\- 1992 Constitutional Article 27 reform → allows ejido privatization via PROCEDE, certification and full domain
+
+\- 1993-99 Angelópolis Regional Development Program -
+
+Current Puebla-Tlaxcala Metropolitan Zone conurbation and Periférico Ecológico
+
+***Key findings:***
+
+-   Irrigated agriculture: 437 ha (2005) to 261 ha (2021)
+
+-   Rainfed agriculture: 3,166 ha to 1,749 ha
+
+\- Urban area: 57 ha to 1,660 ha - industrial and housing growth progressively displaced agriculture
+
+\- Agricultural area lost \>40% between 2005-2021
+
+\- Population: 29,047 in 1990 to 137,435 in 2020
+
+-   Crop specific: grain maize -77.9%, apple -69.6%, green alfalfa -26.5%
+
+***Legalization mechanism:*** Regularization, full domain, land-use changes, expropriations and metropolitan planning instruments legitimize transfer from agrarian to urban market.
+
+***Conclusion:*** Transformations constitute deep urbanization driven by political, social, economic dynamics. Main transformative factors are conurbation and proximity to major roads. AxD-legalization-market chain synthesizes local trajectory. Peasant identity persists as sociocultural practice and local identity, land retains patrimonial value. Without effective territorial planning and normative adjustments limiting land-use changes on social-origin land and protecting agrarian soil, peri-urban agriculture is at risk of disappearing under urban/industrial pressures, with implications for local food security, similar to Global South reports.
+
+## References:
+
+<https://revistas.pucp.edu.pe/index.php/debatesensociologia/es/article/view/31089/28373>

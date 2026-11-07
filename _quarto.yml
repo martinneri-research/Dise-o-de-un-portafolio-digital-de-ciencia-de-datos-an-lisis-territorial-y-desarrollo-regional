@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  description: "A blog built with Quarto"
+  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  title: "Portafolio DigitaL"
+  navbar:
+    right:
+      - about.qmd
+      - CV.qmd
+      - icon: github
+        href: https://github.com/
+     
+format:
+  html:
+    theme:
+      - Lux
+      - brand
+      - tema.scss
+
+    css: styles.css
+
+
+

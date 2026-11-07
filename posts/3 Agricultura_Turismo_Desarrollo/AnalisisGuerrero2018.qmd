@@ -1,0 +1,140 @@
+---
+title: "Análisis de vacíos y omisiones de conservación de las áreas naturales protegidas del estado de Guerrero, México"
+author: "Martin Neri-Suárez"
+date: "2026-09-15"
+categories: [Agricultura, Turismo, Desarrollo Regional]
+---
+
+## ![](images/WhatsApp%20Image%202026-10-23%20at%209.28.15%20AM.jpg)
+
+## RESUMEN
+
+***Objetivo***
+
+Evaluar los vacíos y omisiones de conservación (análisis gap) de los tipos de vegetación con respecto a las Áreas Naturales Protegidas (ANP) del estado de Guerrero, México.
+
+***Contexto***
+
+La tendencia internacional de conservación y protección de recursos naturales está centrada en creación de zonas con restricciones de uso y aprovechamiento, en México reconocidas legalmente como ANP. En México predomina un criterio *ad hoc* para seleccionar sitios de conservación: ubicar ANP en zonas de alta biodiversidad generalmente no aptas para agricultura o desarrollo urbano y de poco valor comercial (Leader-Williams et al 1990; Pressey 1994; Ceballos 2007). Resultado a veces representación inadecuada de ecosistemas sobre todo perspectiva nacional o regional. Adecuada ubicación ANP importante para conservación efectiva y eficiente (Wiersma y Nudds 2009). Superficie terrestre protegida país 13.05% (SEMARNAT-CONANP 2016), esfuerzo importante pero aún ecosistemas no suficientemente protegidos y procesos deterioro por deforestación y cambio cobertura vegetal continúa. Estimaciones deforestación van 365,000 hasta \>1,500,000 ha/año (Mas et al 2004; Figueroa y Sánchez-Cordero 2008; FAO 2010, 2015). Se requiere monitoreo permanente estrategias conservación. Análisis gap herramienta apoyo para tomadores decisiones que en combinación con indicadores biodiversidad a nivel ecosistemas y especies facilita ubicación ANP representativas (Scott et al 1993). Análisis a nivel ecosistemas se define como filtro grueso (Hunter 2005) y se utiliza cuando existe vacío conocimiento sobre estado biodiversidad, además permite inferencias sobre disponibilidad hábitat para especies animales y distribución (Noss 1990; Scott et al 1993; Rodrigues y Brooks 2007) debido que hábitat vertebrados está correlacionado con vegetación. Estudios sugieren meta conservación entre 10% y 12% superficie territorio (Cantu et al 2003; Roe y Hollands 2004), a pesar de que no existe evidencia científica sobre si esa superficie es suficiente para mantener procesos ecológicos y poblaciones flora y fauna viables (Soulé y Sanjayan 1998). Actualmente estándar propuesto en metas conservación internacionales para 2020 es de 17% superficie terrestre y aguas continentales (CBD 2010).
+
+**Guerrero:** estado adolece información suficiente sobre ANP, a pesar que con 11,965 km² de Sierra Madre del Sur y más de 500 km litoral Pacífico cuenta con ecosistemas considerados sitios alto endemismo y riqueza. Sierra Madre del Sur recorre toda longitud estado y se considera cadena montañosa con mayor concentración biodiversidad en superficie relativamente pequeña y a su vez con mayor impacto antropogénico (Arriaga et al 2000; Cantú et al 2013). Se ha reportado como región con menor cobertura ANP en México (Koleff y Urquiza-Hass 2011). Alberga ecosistemas prioritarios como bosques mesófilo montaña, bosques coníferas, mixtos y selva mediana, reportados como “hotspots” a nivel mundial por elevada concentración especies endémicas pero con altas tasas pérdida hábitat (Myers et al 2000; CONABIO 2009).
+
+***Materiales y Métodos***
+
+-   Se utilizó metodología análisis gap para determinar vacíos y omisiones conservación tipos vegetación en ANP del estado. Se definió como *vacío de conservación* a todos tipos vegetación no presentes en ANP de Guerrero. En *omisiones de conservación* se consideró para tipos vegetación presentes en ANP pero con superficie no significativa *menor al 1%*.
+
+\- Cartografía digital uso suelo y vegetación escala *1:250,000* para identificar tipos vegetación (INEGI 2015 Serie V), así como ANP federales y estatales reportadas por CONANP 2017.
+
+\- Información integrada en SIG *ArcGIS TM versión 10.5* (ESRI 2016). Herramienta “Clip” para ajustar polígonos tipos vegetación y ANP federales que están fuera límites políticos estado, superposición mapas digitales ANP versus tipos vegetación. Herramienta “calculate geometry” para calcular en hectáreas superficie vegetación ocupada dentro y fuera ANP.
+
+***Resultados y Discusión***
+
+*ANP en Guerrero:*
+
+-   Estado superficie 6,349,880 ha, de las cuales solamente ***0.27% superficie terrestre*** se encuentran bajo esquema protección en ***11 ANP, 6 decreto federal y 5 estatal*****.** Guerrero es ***segundo estado con menor superficie protegida*****,** después de Ciudad de México, mientras otros estados del sur como Tabasco (14%), Oaxaca (3.65%), Veracruz (3.6%) y Puebla (10%) tienen superficies que superan 3% territorios (CONABIO 2009; Neri et al 2015).
+
+\- Detalle:
+
+-   Federales: General Juan Álvarez 346 ha (0.0054%), Grutas de Cacahuamilpa 1593 ha (0.0251%), Sierra de Huautla 8495 ha (0.1338%), Playa Piedra de Tlacoyunque 96 ha (0.0015%), Playa de Tierra Colorada 63 ha (0.0010%), El Veladero 3627 ha (0.0571%)
+
+\- Estatales: El Pericón 369 ha (0.0058%), Bicentenario 31 ha (0.0005%), Los Olivos 1245 ha (0.0196%), El Nanchal 1386 ha (0.0218%), El Limón 93 ha (0.0015%)
+
+\- Total 17,344 ha = 0.2731%
+
+***Análisis vacíos y omisiones***
+
+-   En estado se identificaron ***10 tipos vegetación*****,** que cubren ***4,689,125** ha*, de cuales únicamente 12,100 ha en ANP federales y 3,349 ha en estatales, que en conjunto suman *15,449 ha = 1.65% vegetación del estado*.
+
+Nota: resumen abstract menciona 17,344 ha totales, diferencia por superficie total ANP vs solo vegetación.
+
+-   *Omisiones conservación (\<1% en ANP) - Figura 2:* 5 tipos
+    -   Selva mediana 221,341 ha total → 1,416 ha en ANP = *0.64%*
+    -   Selva baja 1,926,763 ha → 7,974 ha = *0.41%*
+    -   Bosque de pino 1,134,666 ha → 3,236 ha = *0.29%*
+    -   Bosque de encino 1,156,806 ha → 2,816 ha = *0.24%*
+    -   Popal-tular 11,054 ha → 7 ha = *0.07%*
+-   *Vacíos conservación (0% en ANP) - Figura 3:* 5 tipos
+    -   Bosque de galería 3,100 ha → 0 ha = 0%
+    -   Bosque de táscate 36,387 ha → 0 ha = 0%
+    -   Bosque mesófilo de montaña 165,247 ha → 0 ha = 0%
+    -   Manglar 14,050 ha → 0 ha = 0%
+    -   Sabanoide 19,711 ha → 0 ha = 0%
+-   Evidencia omisiones y vacíos importantes. Tendencia presente a nivel nacional, otros estudios estatales con vegetación como indicador biodiversidad (Cantu et al 2003; Rentería et al 2010; Chapa-Vargas y Monzalvo-Santos 2012; Neri et al 2015) reportaron importantes vacíos y omisiones similares destacando bosques pino, encino, selvas medianas y bosque mesófilo montaña. Establecimiento nuevos sitios conservación suma importancia.
+
+***Conclusiones***
+
+-   Estado Guerrero tiene cobertura 10 tipos vegetación de cuales únicamente 0.27% está presente en ANP, cinco están subrepresentadas y otras cinco no están presentes en ninguna ANP.
+
+-   Ubicación y superficie actual ANP no es suficiente para conservar ecosistemas presentes en estado.
+
+-   Establecimiento nuevas ANP deberá estar ubicadas en sitios con tipos vegetación con vacíos y omisiones identificados. Ecosistemas como bosque encino, bosques pino, bosque mesófilo montaña, bosque galería, selva baja, selva mediana y manglares son prioritarios para conservación, ya que son hábitats imprescindibles para especies animales; además brindan bienes y servicios ambientales fundamentales para diversas actividades humanas, por lo cual esfuerzos conservación deberán orientados a elevar su superficie conservación en estado.
+
+\- Su territorio cuenta con más de 500 km costas en Pacífico, donde se presentan ecosistemas importantes como manglar y bosque galería. Sin embargo ninguno estos tipos vegetación está presente en ANP del estado, por lo que es importante planificar más ANP.
+
+\- *Limitaciones:* cartografía disponible vegetación y uso suelo por su escala original tiene imprecisión en delimitación categorías. Recomendable obtener cartografía más precisa, escalas mejor resolución.
+
+***Palabras clave:*** análisis gap, biodiversidad, conservación, México.
+
+------------------------------------------------------------------------
+
+## *Gap Analysis of the Protected Natural Areas of the State of Guerrero, Mexico*
+
+**Abstract**
+
+***Objective***
+
+To evaluate conservation and omission gaps (gap analysis) of vegetation types with respect to Protected Natural Areas (PNA) of Guerrero state, Mexico.
+
+***Introduction***
+
+International conservation trend focused on creation of zones with use restrictions, in Mexico legally recognized as ANP. In Mexico ad hoc criterion predominates to select conservation sites: locate PNA in high biodiversity areas generally not suitable for agriculture or urban development and low commercial value, result sometimes inadequate representation. Adequate location important for effective efficient conservation. Protected land surface country 13.05%, important effort but ecosystems still insufficiently protected, deterioration processes by deforestation and cover change continue, estimates deforestation 365k to \>1.5M ha/year, requires permanent monitoring. Gap analysis support tool for decision makers combined with biodiversity indicators at ecosystem and species level facilitates location of representative PNA. Ecosystem level defined as coarse filter (Hunter 2005). Studies suggest conservation goal 10-12% territory surface, despite lack scientific evidence if enough to maintain ecological processes and viable flora fauna populations. Currently international proposed standard for 2020 is 17% terrestrial and inland waters (CBD Aichi Targets). Guerrero state lacks sufficient information on PNA despite having 11,965 km² Sierra Madre del Sur and \>500 km Pacific coastline with ecosystems considered high endemism and richness. Sierra Madre del Sur chain with highest biodiversity concentration in relatively small area and highest anthropogenic impact, reported as region with least PNA coverage in Mexico, contains priority ecosystems mesophilic mountain forest, conifer, mixed and medium jungle reported as global hotspots due to high endemic species concentration but high habitat loss rates.
+
+***Methodology***
+
+-   Gap analysis methodology: defined conservation gap = vegetation types not present in PNA Guerrero. Conservation omission = vegetation types present in PNA but with non-significant surface (\<1%).
+
+\- Digital cartography land use and vegetation 1:250,000 scale (INEGI 2015 Serie V) and federal and state PNA reported by CONANP 2017.
+
+\- Integrated in ArcGIS 10.5, Clip tool to adjust polygons outside political limits, overlay digital maps PNA vs vegetation types, calculate geometry tool for hectares surface occupied inside/outside PNA.
+
+***Results***
+
+\- Guerrero surface 6,349,880 ha, only *0.27% terrestrial surface* under protection in *11 PNA, 6 federal and 5 state*. Second state with least protected surface after Mexico City, while other southern states Tabasco 14%, Oaxaca 3.65%, Veracruz 3.6%, Puebla 10% exceed 3% territory.
+
+-   Federal: General Juan Alvarez 346 ha, Grutas de Cacahuamilpa 1593, Sierra de Huautla 8495, Playa Piedra de Tlacoyunque 96, Playa Tierra Colorada 63, El Veladero 3627. State: El Pericon 369, Bicentenario 31, Los Olivos 1245, El Nanchal 1386, El Limon 93. Total 17,344 ha.
+
+-   ***10 vegetation types identified**, covering 4,689,125 ha*, only 12,100 ha in federal PNA and 3,349 ha in state PNA together ***15,449 ha = 1.65% of state vegetation*** (or 0.27% of total state area in summary).
+
+-   *Conservation omissions (\<1%) - 5 types:*
+
+    -   Medium forest (Selva Mediana) 221,341 ha → 1,416 ha in PNA 0.64%
+    -   Low forest (Selva Baja) 1,926,763 ha → 7,974 ha 0.41%
+    -   Pine forest 1,134,666 ha → 3,236 ha 0.29%
+    -   Oak forest 1,156,806 ha → 2,816 ha 0.24%
+    -   Popal-tular 11,054 ha → 7 ha 0.07%
+
+-   *Conservation gaps (0%) - 5 types (Figure 3):*
+
+    -   Gallery forest 3,100 ha 0%
+    -   Tascate forest 36,387 ha 0%
+    -   Mountain cloud forest 165,247 ha 0%
+    -   Mangrove 14,050 ha 0%
+    -   Savanoid 19,711 ha 0%
+
+-   Trend present at national level, other state studies reported similar gaps omissions highlighting pine, oak forests, medium jungles and cloud forest. Establishment new conservation sites of utmost importance.
+
+***Findings***
+
+-   Current location and surface of PNA not enough to conserve ecosystems present in Guerrero.
+
+\- New PNA should be located in sites with vegetation types with gaps and omissions identified. Ecosystems such as oak forest, pine forests, cloud mountain forest, gallery forest, low forest, medium forest and mangroves are priority for conservation as indispensable habitats for animal species and provide fundamental environmental goods and services for human activities, therefore conservation efforts should be oriented to increase conservation surface in state.
+
+\- Despite \>500 km Pacific coast with important ecosystems mangrove and gallery forest, none present in state PNA, important to plan more PNA.
+
+\- *Limitations:* available vegetation and land use cartography due to original scale has imprecision in delimitation categories, advisable to develop cartography with better resolution scales.
+
+***Keywords**:* gap analysis, biodiversity, conservation, Mexico.
+
+## References
+
+<https://ageconsearch.umn.edu/record/353027?v=pdf>

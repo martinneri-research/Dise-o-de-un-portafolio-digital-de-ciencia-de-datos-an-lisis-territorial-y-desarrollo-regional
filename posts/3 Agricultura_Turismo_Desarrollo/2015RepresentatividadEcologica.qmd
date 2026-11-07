@@ -1,0 +1,95 @@
+---
+title: "REPRESENTATIVIDAD ECOLÓGICA DE LAS ÁREAS NATURALES PROTEGIDAS DEL ESTADO DE PUEBLA, MÉXICO"
+author: "MARTIN NERI SUAREZ"
+categories: [Agricultura, Turismo, Desarrollo Regional]
+---
+
+## ![](images/WhatsApp%20Image%202026-10-23%20at%208.44.16%20AM.jpg)
+
+## RESUMEN
+
+**Objetivo:** Evaluar si el diseño del sistema de Áreas Naturales Protegidas (ANP) de Puebla realmente representa de forma adecuada sus ecosistemas.
+
+***Marco teórico***
+
+Las ANP tienen origen en Norteamérica finales siglo XIX como medida protección y conservación recursos naturales *in situ* y biodiversidad (Barzetti 1993; McNeely et al 1994). Desde los sesenta número incrementó acelerado, actualmente superficie bajo protección supera 12% global (Bertzky et al 2012). Pero común planeación deficiente y no sistemática, resultando ANP mal ubicadas. En México falta integración entre áreas protegidas nacionales y estatales desde planeación, desarticulación políticas y programas (De Oliveira 2002). México 1.9 millones km2 continental, variación importante biodiversidad. Para Puebla no existen estudios que analicen si red actual ANP es suficiente para cumplir objetivo conservación, si faltan ANP o si algunas son redundantes o poco valor.
+
+***Materiales y Métodos - Análisis Gap:*** Se utilizó ***análisis de vacíos y omisiones de conservación o análisis gap (Gap analysis) (Scott et al 1993)*** para evaluar representatividad ecológica.
+
+-   *Elemento biodiversidad*: tipos de vegetación presentes (19 tipos reconocidos clasificación INEGI 2012) - Tabla 1. Superficie total vegetación natural 1,739,331 ha.
+-   *Información cartográfica digital:* red ANP federales (7) y estatales (12) del estado de Puebla (CONANP 2014) y tipos vegetación mapa digital uso suelo y vegetación escala 1:250,000 (INEGI 2010). Se omitieron ANP municipales por no contar con información cartográfica disponible; ubicadas principalmente área periurbana ciudad Puebla y ocupan aprox 19.96 km2 (ca. 0.2% de las ANP del estado). Imprecisión por falta coordenadas precisas en decretos municipales (Tlapa 2011).
+-   *Proceso ArcGis TM versión 9.*3: herramienta "clip" para ajustar polígonos ANP federales que sobrepasaran límites políticos (Cuenca Hidrográfica Río Necaxa, La Malinche, Iztaccíhuatl-Popocatépetl, Sierra de Huautla, Tehuacán-Cuicatlán, Cañón Río Blanco y Pico de Orizaba). Luego "calculate geometry" para superficie ocupada cada tipo vegetación dentro y fuera ANP.
+-   *Niveles representatividad:* se consideró ***12% como nivel adecuado*** de representación, valor en rango metas conservación internacional 10% al 50% (Dietz & Czech 2005). Basado en IV Congreso Mundial Áreas Protegidas y Parques Nacionales 1992 (Whitehouse 1992; McNeely 1993; Naughton-Treves et al 2005) estableció objetivo que para año 2000 ANP cubrieran al menos 10% cada bioma. Objetivo 10 al 12% se utiliza en planeación sistemática conservación (Brooks et al 2004). Aunque 12% acepta como meta adecuada, se ha señalado es criterio establecido por intereses políticos y probablemente no suficiente para asegurar conservación biodiversidad y servicios ecosistemas (Soulé & Sanjayan 1998).
+-   *Definiciones (CONABIO-CONANP-TNC-PRONATURA-FCF & UANL 2007):* *v**acío de conservación*** = ausencia tipo vegetación en ANP; ***omisión de conservación*** = se representa tipo vegetación por debajo del 12% de superficie que ocupa.
+
+***Resultados***
+
+-   Puebla presenta 19 tipos vegetación (Figura 1). En ANP federales cobertura vegetal 195,511 ha y en estatales 62,453 ha. En conjunto ANP representan *15% superficie cubierta por vegetación natural de todo el estado* y corresponden a 15 tipos vegetación. Dos tipos reconocidos (pastizal inducido y palmar inducido) se consideran vegetación secundaria.
+-   Sistema ANP supera media nacional protección 12%. Sin embargo evaluación por tipo vegetación mostró *4 vacíos (Figura 2) y 6 omisiones de conservación*.
+    -   *Vacíos (0% en ANP):* selva alta perennifolia, selva baja espinosa caducifolia, pastizal halófito y tular.
+    -   *Omisiones (\<12% representatividad):* bosque de pino, bosque de oyamel, selva baja caducifolia, bosque mesófilo de montaña, bosque de pino-encino y bosque de encino-pino. Pastizal inducido y palmar inducido presentes pero no considerados omisión porque vegetación inducida por actividades humanas.
+    -   *Representatividad adecuada (\>=12%):* pradera de alta montaña, bosque de mezquite, matorral crasicaule, chaparral, bosque de táscate, matorral desértico rosetófilo y bosque de encino.
+
+***Discusión***
+
+Resultados similares tendencia nacional: reporte análisis gap terrestre México (CONABIO-CONANP-TNC-PRONATURA-FCF & UANL 2007) registró 33 tipos vegetación presentes en Sistema Nacional Áreas Naturales Protegidas (SINAP), 20 son omisiones conservación. Reporta importante déficit protección en bosques pino-encino y bosques mesófilos montaña. Estado Puebla puede contribuir protección estos ecosistemas porque extensión importante no forma parte ANP actuales.
+
+Ejemplos importancia: bosques coníferas (oyamel, pino, pino-encino) y bosques Quercus (encino, encino-pino, táscates) se han reportado como tipos vegetación con mayor riqueza vertebrados en Puebla (Flores & Gerez 1994). Gámez et al 2012 mencionan bosque pino-encino, bosque mesófilo montaña, selva alta perennifolia y selva baja caducifolia son áreas importantes distribución mamíferos y presencia especies endémicas México. De estos, solo dos están representados nivel aceptable, seis no adecuadamente y uno no presente en sistema ANP Puebla.
+
+En futuro se espera México eleve meta conservación a más del 12%, tendencia mundial Plan Estratégico Diversidad Biológica (CBD 2010) establece que para 2020 cobertura mundial áreas protegidas deberá cubrir al menos 17%. Esta nueva meta promueve creación y ampliación ANP con procesos planeación sistemática conservación basados en herramientas metodológicas que contribuyan lograr representatividad y conectividad ecológica (CBD 2012). Metodología análisis gap enfocada evaluación representatividad; para evaluar conectividad sería necesario incluir otros procesos metodológicos como estudios fragmentación hábitat y modelos espaciales poblaciones que consideran hábitats fragmentados (Carroll 2006).
+
+Uso vegetación como indicador biodiversidad a nivel ecosistema se considera estrategia eficiente para identificar y evaluar áreas conservación, sobre todo cuando existe vacío conocimiento sobre estado biodiversidad área determinada. Permite inferencias distribución especies animales, debido que muchas especies vertebrados relacionadas con tipo y estado vegetación.
+
+***Conclusiones***
+
+El 15% área cubierta por vegetación natural del estado Puebla está protegida en sistema estatal ANP. Esto indica esfuerzo importante para proteger ecosistemas a través ANP. Sin embargo análisis por tipo vegetación demuestra que, a pesar superar media nacional protección 12%, aún existen ***4 tipos vegetación natural ausentes y 6 por debajo nivel adecuado representatividad ecológica*** en sistema ANP. Estudio demuestra distribución tipos vegetación en sistema ANP aún no es suficientemente proporcional y representativa, para completa protección ecosistemas estado Puebla. Resultados sugieren necesario dirigir esfuerzos creación nuevas ANP hacia tipos vegetación que presentan especies endémicas y alta biodiversidad, que no están representadas o están subrepresentadas, tales como *selva baja caducifolia y bosque mesófilo de montaña*.
+
+**Palabras clave:** análisis gap, Áreas Naturales Protegidas, biodiversidad, representatividad ecológica, vegetación.
+
+**Referencias** https://www.redalyc.org/pdf/341/34143179001.pdf
+
+------------------------------------------------------------------------
+
+## Abstract
+
+***Ecological Representativeness of the Natural Protected Areas of Puebla State, Mexico***
+
+***Objective & Hypothesis***
+
+Assess effectiveness of natural protected areas network design in Puebla. Hypothesized that due to fact Mexico protected areas network is based on ad hoc design, current network does not adequately represent existing ecosystems.
+
+***Method - Gap Analysis:***
+
+-   Vegetation types as biodiversity element: 19 types recognized INEGI classification, covering 1,739,331 ha natural vegetation.
+
+-   Cartographic integration: 7 federal + 12 state ANP (CONANP 2014) and vegetation map 1:250,000 (INEGI 2010). Municipal ANP omitted (∼19.96 km2, 0.2%). Process in ArcGIS 9.3: clip tool to adjust federal ANP polygons exceeding state limits (Necaxa River Basin, La Malinche, Iztaccíhuatl-Popocatépetl, Sierra de Huautla, Tehuacán-Cuicatlán, Río Blanco Canyon, Pico de Orizaba), calculate geometry for area.
+
+\- Representativeness threshold: 12% as adequate level (international range 10-50%, IV World Congress Protected Areas 1992 goal 10% each biome by 2000). 12% used in systematic conservation planning (Brooks et al 2004) but noted as political criterion maybe insufficient (Soulé & Sanjayan 1998).
+
+\- Definitions: conservation gap = absence vegetation type in ANP; conservation omission = representation below 12% of its area (CONABIO et al 2007).
+
+***Results***
+
+\- 19 vegetation types. Federal ANP 195,511 ha natural vegetation, state ANP 62,453 ha. Together ***15% of state natural vegetation*** **protected**, corresponding to 15 vegetation types.
+
+\- Despite exceeding national 12% goal, analysis found ***4 conservation gaps and 6 omissions*****.**
+
+**-** *Gaps (0%):* tropical evergreen high forest (selva alta perennifolia), low thorny deciduous forest (selva baja espinosa caducifolia), halophytic grassland, tule (tular).
+
+-   *Omissions (\<12%):* pine forest, oyamel fir forest, seasonally dry tropical forest (selva baja caducifolia), mountain cloud forest (bosque mesófilo de montaña), pine-oak forest, oak-pine forest. Induced grassland and induced palm present but not considered omission as human-induced.
+
+-   *Adequate (\>=12%):* high mountain prairie, mesquite forest, crassicaule scrub, chaparral, tascate forest, rosetophyllous desert scrub, oak forest.
+
+***Discussion***
+
+Results similar to national trend: Mexico terrestrial gap analysis (CONABIO et al 2007) recorded 33 vegetation types in SINAP, 20 are conservation omissions, important deficit in pine-oak and cloud forests. Puebla can contribute to their protection. Conifer forests and Quercus forests reported as highest vertebrate richness in Puebla (Flores & Gerez 1994). Pine-oak, cloud forest, high evergreen and low deciduous forests important for mammal distribution and endemic species (Gámez et al 2012). Only two adequately represented. Future: Mexico expected to raise goal beyond 12%, global CBD Aichi Strategic Plan 2011-2020 goal 17% protected areas by 2020, requiring systematic planning tools for representativeness and connectivity. Gap analysis is coarse filter using vegetation as biodiversity indicator, efficient when biodiversity knowledge gap, allows inferences on vertebrate distribution. To evaluate connectivity need habitat fragmentation studies and spatial population models (Carroll 2006).
+
+***Conclusions***
+
+15% natural vegetation area of Puebla protected in state ANP system indicates important effort. However by vegetation type analysis, despite exceeding national average, there are still 4 natural vegetation types absent and 6 below adequate ecological representativeness level. Distribution of vegetation types in ANP system not yet sufficiently proportional and representative for complete ecosystem protection. Suggest directing efforts for new ANP creation towards vegetation types presenting endemic species and high biodiversity not represented or underrepresented, such as *s**easonally dry tropical forest and mountain cloud forest*****.**
+
+***Keywords:*** **gap** analysis, protected natural areas, biodiversity, ecological representativeness, vegetation.
+
+## References
+
+<https://www.redalyc.org/pdf/341/34143179001.pdf>

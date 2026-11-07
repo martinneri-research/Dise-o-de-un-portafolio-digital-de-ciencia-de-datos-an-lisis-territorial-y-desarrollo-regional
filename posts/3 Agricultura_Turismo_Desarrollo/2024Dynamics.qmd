@@ -1,0 +1,168 @@
+---
+title: "DINÁMICA Y VULNERABILIDAD ECOLÓGICA DE LA RESERVA ESTATAL SIERRA DEL TENTZO, MÉXICO"
+author: "Martin Neri-Suárez"
+categories: [Agricultura, Turismo, Desarrollo Regional]
+---
+
+## ![](images/WhatsApp%20Image%202026-10-23%20at%2011.00.41%20AM.jpg)
+
+## RESUMEN
+
+**Objetivo:** Estimar el cambio de uso del suelo en la Reserva Estatal Sierra del Tentzo (REST) e identificar las zonas con mayor probabilidad de cambio y vulnerabilidad ecológica.
+
+El conocimiento y evaluación de los cambios ecológicos de las Áreas Naturales Protegidas es importante para su planeación y gestión. El uso de herramientas como los modelos de predicción de cambio de uso del suelo y el análisis de imágenes de satélite son alternativas de bajo costo y alta precisión que pueden coadyuvar a ese propósito.
+
+***Contexto:***
+
+\- Las Áreas Naturales Protegidas (ANP) de México son sistemas socioecológicos complejos debido a la diversidad biológica y procesos ecosistémicos que albergan, así como a la diversidad étnica, cultural y de procesos sociales presentes en las comunidades ubicadas dentro o en la vecindad de las ANP (De la Mora-De la Mora y López-Miguel 2022). A diferencia de países desarrollados, donde las áreas protegidas están deshabitadas y son de propiedad estatal (Barborak 2021), en México la mayoría de las ANP se localizan en regiones rurales donde la población depende en gran medida de los recursos naturales para obtener parte de sus medios de subsistencia.
+
+\- En Puebla, México, se tienen *19 Áreas Naturales Protegidas*, entre las que se tiene la *Reserva Estatal Sierra del Tentzo (REST): decretada en 2011* debido a su relevancia en biodiversidad y a la presión antropogénica que afecta sus ecosistemas, y a la presión de servicios ambientales. La planeación y gestión efectiva de la reserva representa un reto, por la complejidad de las interacciones de los sistemas ecológicos y socioeconómicos, dentro de la cual la utilización del territorio determina tendencias de conservación o deterioro de estos recursos.
+
+\- Para entender por qué, a pesar de ser ANP, los ecosistemas de la reserva continúan deteriorándose, es necesario el análisis espacio-temporal del estado de conservación o deterioro de los ecosistemas contenidos en la misma. En este estudio se utilizó el *cambio de uso de suelo como indicador de vulnerabilidad* de la REST a escala de paisaje, ya que este proceso es medible espacial y temporalmente (Lu et al 2017).
+
+-   Se clasificó el uso del suelo y los tipos de vegetación de la reserva en *cuatro categorías, de acuerdo con el concepto de ciclos adaptativos, de la teoría de la Panarquía (Allen et al 2014)*.
+
+\- En los ciclos adaptativos, la *vulnerabilidad al cambio* se define como la transición de una categoría a otra, lo que ocurre cuando un ecosistema supera sus fronteras de resiliencia y se vuelve vulnerable a un cambio de régimen (Dakos et al 2015). Se mide, por ejemplo, con el nivel de probabilidad de que un área con vegetación conservada transite a un área agrícola. Por el contrario, la resiliencia determina la cantidad de cambio que el sistema puede absorber antes de pasar de una fase a otra, y se relaciona intrínsecamente con cada uno de los procesos que ocurren en un ciclo adaptativo (Allen et al 2014). En este sentido, esta investigación se centra en la conceptualización de la vulnerabilidad ecológica y su análisis con la teoría de la Panarquía y técnicas de análisis geoespaciales, para comprender la interacción humana-ecosistema.
+
+\- La *Teoría de la Panarquía* se ha utilizado para describir la evolución de sistemas socioecológicos en diversos estudios de procesos sociales y naturales, como la migración y el cambio ambiental, la deforestación y cambios institucionales (Downey 2010; Carreiro y Zipperer 2011; Warner 2011). Con base en esta teoría, en este estudio se postula que la REST contiene áreas con *diferente vulnerabilidad al deterioro ecológico y probabilidades de transición entre estados de conservación o deterioro*.
+
+**Metodología**
+
+\- La Reserva Estatal Sierra del Tentzo es una de las 19 ANP estatales del estado de Puebla, México, tiene una superficie de *578 km²* y se localiza en la región central del estado de Puebla. La reserva fue decretada en 2011 con el objetivo principal de conservación y aprovechamiento sustentable de los recursos naturales y los servicios ambientales y contiene un mosaico importante de diversidad biológica y cultural (SDRSO 2011).
+
+\- Presenta una variación altitudinal de *950 a 2688 msnm*, y cuenta con los *seis tipos de vegetación y diversas zonas*. Las actividades del sector primario, la agricultura y la ganadería, predominan en las comunidades humanas de la reserva, donde aún se lleva a cabo un alto uso extractivo de recursos naturales, como la flora silvestre, leña y minerales. La reserva tiene una *zona núcleo*, donde se concentra la mayor biodiversidad y se tiene mayor cobertura vegetal; una *zona de aprovechamiento*, donde la población aprovecha los recursos naturales y realiza actividades agropecuarias; una *zona deteriorada*, identificadas como zonas de restauración ecológica, y las zonas de los asentamientos humanos, que ocupan superficies pequeñas dentro de la reserva, ya que la mayoría de las comunidades tienen menos de 1000 habitantes.
+
+***Identificación y clasificación de los regímenes de la Panarquía***
+
+-   Los usos del suelo y tipos de vegetación se delimitaron con *imágenes de satélite Landsat 4-5 de los años 1999, 2009 y 2018, todas del mes de noviembre*. Se aplicó un proceso de mejoramiento de borde de pixel (ERDAS IMAGINE versión 14), utilizando un filtro de matriz de convolución 3 x 3. Posteriormente, se realizó una clasificación no supervisada de 50 clases, agrupadas por su similitud espectral relativa para cada imagen. Posteriormente, se realizó una clasificación supervisada, donde las 50 clases iniciales fueron agrupadas en *13 categorías*. Este proceso de reagrupación se alineó cuidadosamente a la cartografía de las series I, IV y VI de uso de suelo y vegetación documentadas por el INEGI en los años 1997, 2009 y 2016, permitiendo así una comparación directa con clasificaciones estandarizadas y reconocidas a nivel nacional. Finalmente, se llevó a cabo una clasificación basada en la correspondencia a cada uno de los 13 tipos de vegetación y uso del suelo, identificados previamente en las imágenes de satélite Landsat 4-5, con las características principales de los cuatro ciclos adaptativos de la Panarquía descritos por Allen et al (2014). En los ciclos adaptativos:
+
+**- *Fase de crecimiento (r):*** corresponden a los ecosistemas con vegetación secundaria, los cuales han experimentado un proceso de perturbación, pero no han superado el umbral de resiliencia y se encuentran en transición para regresar a su estado inicial.
+
+**- *Fase de conservación (k):* i**ncluyó a ecosistemas que presentan un estado clímax en su vegetación y una acumulación importante de biomasa; se identificó por su vegetación primaria y el uso de recursos naturales por los pobladores locales.
+
+**- *Fase de liberación (Ω):* c**orresponden a las zonas agrícolas y urbanas.
+
+**- *Fase de reorganización (α):*** áreas con perturbación ecológica y en el estudio se relacionó con tierras de pastizal inducido, y se desarrolló en sitios donde se ha eliminado cualquier tipo de vegetación, en áreas agrícolas abandonadas o en áreas que se incendian frecuentemente.
+
+-   *Clasificación del uso del suelo de acuerdo a las fases de la Panarquía:*
+    -   *k - Conservación:* Bosque de encino, Matorral desértico rosetófilo, Palmar inducido, Selva baja caducifolia
+    -   *r - Crecimiento:* Vegetación secundaria arbórea de bosque de encino, Vegetación secundaria arbórea de selva baja caducifolia, Vegetación secundaria arbustiva de bosque de encino, Vegetación secundaria arbustiva de bosque de táscate, Vegetación secundaria arbustiva de selva baja caducifolia
+    -   *α - Reorganización:* Pastizal inducido
+    -   *Ω - Liberación:* Agricultura de riego anual y semipermanente, Agricultura de temporal anual, Urbano construido
+    -   Fuente: elaboración propia con base en INEGI (1997, 2009 y 2016)
+
+***Selección de variables que influyen en el cambio***
+
+-   Para el modelo de dinámica de cambio del uso del suelo y los tipos de vegetación, se seleccionaron variables físicas relacionadas con factores de cambio ecológico: *modelo digital de elevación, distancia a caminos y zonas agrícolas y urbanas*. Además, se utilizó una capa de tendencias de cambio espacial con ajuste polinómico para identificar las zonas con mayor cambio entre 1999 y 2018. Las cinco variables se ingresaron en formato ráster (con un tamaño de celda de 30,30) al módulo *"Land Change Modeler"* del programa TerrSet y fueron procesadas utilizando la función de distancia euclidiana.
+
+***Análisis de detección y tendencias de cambio en las fases de la Panarquía***
+
+\- Para predecir las tasas de cambio de uso del suelo y vegetación proyectados para los años *2030 y 2050*, se empleó una *red neuronal* como algoritmo de aprendizaje automático, la cual identifica a las áreas con mayor probabilidad de cambio en la cobertura del suelo (Eastman 2016). Además, cuantifica las pérdidas y ganancias espacio-temporales de superficie de la reserva, expresadas en términos del promedio de superficie que cambia de una fase a otra durante el periodo analizado. Esta estimación se obtuvo mediante la ecuación utilizada por Halefom et al (2018):
+
+\- *T**asa de cambio (km²/año) = (x - y) / z*** donde: x = área reciente, y = área previa, z = intervalo de tiempo entre X y Y en años
+
+***Cadenas de Markov***
+
+\- Se calculó la *matriz de probabilidad de transición* entre usos del suelo y vegetación con el módulo MARKOV de TerrSet, para estimar la probabilidad del cambio de superficie entre 2009 y 2018. El modelo de Cadenas de Markov se describe como procesos estocásticos y asigna probabilidades para cambio basados en eventos anteriores para proyectar cambios futuros. Esto permite cuantificar la superficie modificada y obtener las probabilidades de que una categoría de uso de suelo o tipo de vegetación se mantenga o cambie en el futuro. El modelo considera dos supuestos. El primero considera que el estado de la tierra en cualquier momento del futuro (t+1) es discreto y depende del estado anterior inmediato (t), obteniendo así una matriz de transición derivada de dos momentos de cambio (de 2 a tn). A partir de esta matriz se obtienen las probabilidades de cambio a un tercer punto en el futuro. El segundo supuesto se relaciona con la matriz de transición, que se supone estacionaria en el tiempo y se puede utilizar para predecir futuras distribuciones de uso de la tierra a partir de los datos actuales (Iacono et al 2015). En un contexto de análisis de cambio de uso del suelo, la matriz de transición se representa matemáticamente mediante la ecuación propuesta por Subedi y Thapa (2013):
+
+-   *L(t+1) = Pij* L(t)\*, con matriz Pij de probabilidades P11...Pmm, donde L(t+1) y L(t) son la categoría de uso de suelo para el tiempo t+1 y t respectivamente, (0 ≤ Pij \< 1 y Σ Pij = 1, (i,j = 1,2,...,m)).
+
+-   Se utilizaron los mapas de uso de suelo y tipos de vegetación de *1999 como t y 2009 como t+1 para proyectar el uso de suelo y tipos de vegetación en el año 2018*. Para adaptar la matriz de transición a los ciclos adaptativos de la Panarquía se asignó una matriz de 4 x 4 a las categorías de Pij, donde se asume que cada estado corresponde a una de las fases de la Panarquía: crecimiento (r), conservación (k), liberación (Ω) y reorganización (α) (Figura 2).
+
+***Análisis de sensibilidad y precisión de la predicción del modelo***
+
+Se llevó a cabo un análisis de sensibilidad del modelo para determinar las variables con mayor influencia en el cambio de uso del suelo. Las variables se consideraron como variables estáticas, lo que significa que expresan aspectos básicos de idoneidad para las transiciones entre los cuatro ciclos adaptativos y no cambian con el tiempo. El modelo utiliza el algoritmo *Red Neuronal de Perceptrón Multicapa (MLP)* (Eastman 2016) para medir la influencia de cada variable en el potencial de transición de los usos de suelo. Este algoritmo mantiene constantes todas las variables independientes y es capaz de identificar relaciones de naturaleza no lineal.
+
+\- La precisión de la predicción del modelo se evaluó comparando la superficie y la ubicación espacial de cada categoría. Se comparó la imagen Landsat de 2018 con el mapa generado por el modelo de predicción para el mismo año. La comparación de superficies se realizó entre las clases de uso de suelo del mapa de clasificación y el mapa generado por el modelo de predicción del año 2018. Para la precisión de la ubicación espacial de cada categoría, se utilizó el módulo *VALIDATE* del programa TerrSet para obtener el estadístico de localización *Kappa de localización (Klocation)*.
+
+***Análisis de vulnerabilidad***
+
+A partir de los mapas de tendencias de cambio proyectados y el análisis de cadenas de Markov, se modelaron las transiciones que van desde la fase de conservación (k) a la de destrucción (Ω). Este modelo realiza una evaluación integral del potencial de cambio del periodo analizado (Eastman 2016) y arroja como resultado el mapa de vulnerabilidad al cambio, en el que se expresa la probabilidad de que un pixel cambie de un régimen a otro.
+
+***Resultados:***
+
+***Sensibilidad y precisión de predicción del modelo :***
+
+-   Los resultados revelaron que la *variable de tendencia de transición k-Ω de noveno orden ejerce la mayor influencia* sobre los cambios de uso de suelo en la reserva. Esta variable dependiente, influenciada por el tipo de paisaje, el uso del suelo y las características físicas específicas de la reserva, es determinante en la transición de áreas bien conservadas hacia estados ecológicamente alterados. Por otro lado, la *distancia a zonas agrícolas y urbanas resultó ser la menos significativa*. Esta observación destaca la complejidad del proceso de deterioro de las zonas con vegetación primaria, que, a pesar de su lejanía de asentamientos humanos y zonas agrícolas, enfrentan amenazas significativas. La incorporación de esta variable permite una representación más precisa de dinámicas complejas y altamente no lineales, específicamente diseñada para contextos donde los patrones de cambio son complejos debido a la intervención humana (Gupta y Sharma 2020). En contraste con variables convencionales como la proximidad a zonas agrícolas y urbanas, cuya influencia intuitiva en los cambios de uso del suelo ha sido documentada en estudios anteriores (Sahagún-Sánchez et al 2018; Pérez et al 2021; Hernández-Cavazos et al 2023), nuestra investigación encontró que estas tienen un impacto menos determinante. El ajuste polinómico revela patrones de cambio que son cruciales para entender la dinámica de conservación y alteración ecológica. Esta metodología no solo mejora la precisión de la representación de las tendencias de cambio, sino que también facilita la identificación de áreas críticas que de otro modo quedarían ocultas.
+
+***Dinámica, vulnerabilidad y proyección 2030 y 2050 - Figuras 4-6, Tablas 5-6 (páginas 8-10)***
+
+La dinámica espacio-temporal muestra *tendencia predominante de cambio de k → r*, es decir, de conservación a crecimiento / vegetación secundaria. Esto indica deterioro de ecosistemas con vegetación primaria que se están transformando en pastizales y áreas de cultivo, y en la proyección futura las áreas con mayor vulnerabilidad ecológica se agrupan en un patrón asociado a los asentamientos humanos y de los núcleos de población. - Las áreas más vulnerables a la pérdida de ecosistemas conservados a ecosistemas deteriorados se localizan en la *cercanía de los asentamientos humanos*. Por lo que el diseño y ejecución de estrategias de conservación y aprovechamiento de los ecosistemas, por parte de los usuarios y tomadores de decisiones, debe dar un énfasis especial a la atención de estas áreas. - Las proyecciones a 2030 y 2050 con Cadenas de Markov y Land Change Modeler confirman que si se mantiene la tendencia, continuará la pérdida de cobertura k y aumento de r, Ω y α en zonas de borde y cercanas a comunidades, aunque k aún mantiene alta probabilidad de persistencia (0.70) en el núcleo.
+
+***Implicaciones***
+
+El estudio fue a *escala regional*, por lo que no se exploraron cambios y vulnerabilidad a nivel local. Se requieren programas de manejo que prioricen zonas de borde y cercanas a asentamientos, restauración en fase α, y monitoreo con imágenes Landsat y modelos de predicción como alternativa de bajo costo y alta precisión.
+
+***Conclusiones***
+
+En la Reserva Estatal Sierra del Tentzo, el análisis de Panarquía y geoespacial de la dinámica espacio-temporal de la cobertura vegetal indicó que en el territorio de la reserva se tiene actualmente ***cambios en la condición ecológica, con mayor probabilidad de una transición ecológica de fase k – r (de un estado de conservación a un estado de crecimiento)*****.** El cambio implica la *transformación de áreas de mayor vegetación primaria, donde se tiene mayor cantidad y calidad de recursos forestales y faunísticos, que la población local y externa aprovecha, a áreas con vegetación secundaria, ecológicamente deterioradas*.
+
+\- Las áreas de la Reserva Estatal Sierra del Tentzo más vulnerables a la pérdida de ecosistemas conservados a ecosistemas deteriorados *se localizan en la cercanía de los asentamientos humanos*. Por lo que el diseño y ejecución de estrategias de conservación y aprovechamiento de los ecosistemas, por parte de los usuarios y tomadores de decisiones, debe dar un *énfasis especial a la atención de estas áreas*.
+
+\- ***Implicaciones:*** El estudio fue a una escala regional, por lo que no se exploraron cambios y vulnerabilidad a nivel local.
+
+\- ***Palabras clave:*** Adaptive cycle; Conservation status; Ecosystems; Markov chains; Protected Natural Areas.
+
+## Referencias
+
+<https://www.revista.ccba.uady.mx/ojs/index.php/TSA/article/view/5310/2350>
+
+------------------------------------------------------------------------
+
+## *Dynamics and Ecological Vulnerability of the Sierra del Tentzo State Reserve, Mexico*
+
+Knowledge and evaluation of ecological changes in Protected Natural Areas is important for their planning and management. Use of tools such as land-use change prediction models and satellite image analysis are low-cost and high-precision alternatives that can contribute to this purpose.
+
+***Objective***
+
+To estimate the trend of land-use change in the ecosystems of the Sierra del Tentzo State Reserve (REST), Mexico. To identify the sites of the REST with highest probability of change in their ecosystems and evaluate ecological vulnerability, to identify areas with different vulnerability levels and determine their probabilities of transiting between different ecological states.
+
+***Introduction***
+
+Mexican PNAs are complex socio-ecological systems due to biological diversity and ecosystem processes, as well as ethnic, cultural and social processes in communities inside or near PNAs. Unlike developed countries where protected areas are uninhabited and state-owned, in Mexico most PNAs are located in rural regions where population depends largely on natural resources for subsistence. - In Puebla, Mexico, there are *19 PNAs*, including *Sierra del Tentzo State Reserve (REST): decreed in 2011* due to its biodiversity relevance and anthropogenic pressure affecting its ecosystems and environmental services. Effective planning and management is a challenge due to complexity of ecological and socioeconomic interactions, where land use determines conservation or deterioration trends. - To understand why, despite being PNA, reserve ecosystems continue deteriorating, space-time analysis of conservation/deterioration state is needed. This study used *land-use change as vulnerability indicator* at landscape scale, measurable spatially and temporally. - Land use and vegetation classified into *four categories according to adaptive cycles, Panarchy theory (Allen et al 2014)*. Vulnerability to change defined as transition from one category to another, occurring when ecosystem exceeds resilience boundaries and becomes vulnerable to regime change. Measured e.g. by probability that conserved vegetation area transits to agricultural area. Resilience determines amount of change system can absorb before passing from one phase to another. - Panarchy theory used to describe evolution of socio-ecological systems in migration, environmental change, deforestation, institutional changes. Study postulates REST contains areas with *different vulnerability to ecological deterioration and transition probabilities between conservation or deterioration states*.
+
+***Methodology***
+
+*Study area:* REST is one of 19 state PNAs in Puebla, *578 km²*, central region of Puebla state. Decreed 2011 for conservation and sustainable use of natural resources and environmental services, contains important mosaic of biological and cultural diversity. Altitudinal variation *950 to 2688 masl*, *six vegetation types and diverse zones*. Primary sector agriculture and livestock predominate, still high extractive use of natural resources, wild flora, firewood, minerals. Has *core zone* with highest biodiversity and vegetation cover; *use zone* where population uses natural resources and agricultural activities; *deteriorated zone* identified as ecological restoration zones; and human settlement zones occupying small surfaces, most communities \<1,000 inhabitants.
+
+**- *Identification and classification of Panarchy regimes****:* Land uses and vegetation delimited with *Landsat 4-5 satellite images 1999, 2009 and 2018, all November*. Edge enhancement (ERDAS IMAGINE v14), 3x3 convolution filter. Unsupervised classification 50 classes grouped by spectral similarity, then supervised classification grouped into *13 categories*. Regrouping carefully aligned to INEGI Series I, IV, VI land use and vegetation cartography 1997, 2009, 2016, allowing direct comparison with standardized classifications. Finally classification based on correspondence to each of 13 vegetation/land-use types with main characteristics of four Panarchy adaptive cycles (Allen et al 2014):
+
+**- *Growth phase (r):*** ecosystems with secondary vegetation, experienced perturbation but not exceeded resilience threshold, in transition to return to initial state.
+
+**- *Conservation phase (k):*** ecosystems with climax state, important biomass accumulation; identified by primary vegetation and use of natural resources by local inhabitants.
+
+**- *Release phase (Ω):*** agricultural and urban zones.
+
+**- *Reorganization phase (α):*** ecological disturbance, related to induced grassland, developed in sites where any vegetation eliminated, in abandoned agricultural areas or frequently burned areas.
+
+\- ***Markov chains:*** Transition probability matrix calculated with MARKOV module TerrSet, to estimate probability of surface change 2009-2018. Markov model described as stochastic processes, assigns probabilities based on previous events to project future changes. Quantifies modified surface and probabilities category stays or changes. Two assumptions: state in any future moment (t+1) is discrete and depends on immediate previous state (t), transition matrix derived from two change moments; transition matrix assumed stationary in time and can be used to predict future land-use distributions from current data. Mathematically *L(t+1) = Pij* L(t)*.*
+
+*-* **Sensitivity and precision:** Sensitivity analysis to determine variables with greatest influence. Variables considered static, expressing basic suitability aspects for transitions between four adaptive cycles, not changing with time. Model uses *Multi-Layer Perceptron (MLP) Neural Network* algorithm to measure influence of each variable on transition potential. Maintains all independent variables constant and can identify non-linear relationships. Precision evaluated comparing surface and spatial location of each category, Landsat 2018 vs model map for same year, VALIDATE module TerrSet for *Kappa location (Klocation)* statistic.
+
+\- ***Vulnerability analysis:*** From projected change trend maps and Markov chain analysis, modeled transitions from conservation (k) to destruction (Ω). Integral evaluation of change potential, result vulnerability map expressing probability that a pixel changes from one regime to another.
+
+***Results***
+
+***Sensitivity and precision:*** *Transition trend k-Ω 9th order variable exerts greatest influence* on land-use changes in reserve. Dependent variable, influenced by landscape type, land use and specific physical characteristics, determinant in transition from well-conserved areas to ecologically altered states. *Distance to agricultural and urban zones was least significant*. Highlights complexity of deterioration of primary vegetation zones, despite distance from human settlements and agricultural zones, facing significant threats. Incorporation allows more precise representation of complex and highly non-linear dynamics, specifically designed for contexts where change patterns are complex due to human intervention. In contrast to conventional variables like proximity to agricultural/urban zones whose intuitive influence documented in previous studies, this research found less determinant impact. Polynomial adjustment reveals change patterns crucial to understand conservation and ecological alteration dynamics.
+
+\- Greatest probability of conservation gain in reserve is transition *r-k*, occurring when secondary vegetation development reaches climax state. Transition probability *0.19*, relatively low because secondary vegetation may not transit to k due to anthropogenic activities. Conversely conservation areas (k) have lower probability to transform into agricultural/urban zones (Ω) and grasslands (α), respectively. Secondary vegetation areas present highest probability of transition to anthropic regime (Ω), perhaps due to proximity to urban settlements and agricultural zones.
+
+***Dynamics, vulnerability and 2030/2050 projection***
+
+Space-time dynamics show *predominant trend of change k → r*, i.e., conservation to growth / secondary vegetation. Indicates deterioration of primary vegetation ecosystems transforming into grasslands and crop areas, and in future projection areas with greater ecological vulnerability group in pattern associated with human settlements and population nuclei. Most vulnerable areas to loss of conserved ecosystems to deteriorated ecosystems are located *near human settlements*. Design and execution of conservation and ecosystem use strategies, by users and decision-makers, must give special emphasis to these areas. Projections to 2030 and 2050 with Markov chains and Land Change Modeler confirm if trend maintained, continued loss of k cover and increase of r, Ω and α in edge zones and near communities, although k still maintains high persistence probability (0.70) in core.
+
+***Conclusions***
+
+In Sierra del Tentzo State Reserve, Panarchy and geospatial analysis of space-time dynamics of vegetation cover indicated territory currently has *changes in ecological condition, with greater probability of ecological transition of phase k – r (from conservation state to growth state)*. Change implies *transformation of areas of greater primary vegetation, where greater quantity and quality of forest and faunistic resources, which local and external population uses, to areas with secondary vegetation, ecologically deteriorated*.
+
+Areas of Sierra del Tentzo State Reserve most vulnerable to loss of conserved ecosystems to deteriorated ecosystems *are located near human settlements*. Therefore design and execution of conservation and ecosystem use strategies, by users and decision-makers, must give *special emphasis to attention of these areas*.
+
+***Implication***
+
+Study was at regional scale, so changes and vulnerability at local level were not explored.
+
+***Keywords:*** Adaptive cycle; Conservation status; Ecosystems; Markov chains; Protected Natural Areas.
+
+## References
+
+<https://www.revista.ccba.uady.mx/ojs/index.php/TSA/article/view/5310/2350>

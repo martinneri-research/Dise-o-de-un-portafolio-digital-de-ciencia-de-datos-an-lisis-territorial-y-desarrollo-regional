@@ -1,0 +1,85 @@
+---
+title: "Tendencias de sequía extrema en Puebla: índices climáticos y socioeconómicos con implicaciones para la gestión del agua."
+author: "Martin Neri-Suarez"
+categories: [Análisis territorial urbano y socioeconómico]
+---
+
+## ![](images/images%20(1).jpg)
+
+## RESUMEN
+
+**Objetivo:** Analizar las principales bases de datos para identificar la exposición por sequía que presenta el estado de Puebla como componente importante de vulnerabilidad y riesgo.
+
+**Problema**
+
+Las sequías han causado daños en gran parte del estado de Puebla, generando consecuencias, provocando tensiones y conflictos sociales y políticos por el uso del agua a nivel local y municipal.
+
+***Marco Teórico:*** Define sequía como periodo anormalmente seco que persiste lo suficiente para causar grave desequilibrio hidrológico (OMM, 1992). Distingue 4 tipos: meteorológica (déficit precipitación - IPCC 2018), agrícola (déficit humedad suelo), hidrológica (afecta escurrimiento y aportes hídricos) y socioeconómica (efectos desfavorables social y económico). La vulnerabilidad se define según IPCC (2007/2014) con 3 elementos: exposición (carácter, magnitud y velocidad de cambio climático), sensibilidad (grado en que sistema es afectado) y capacidad adaptativa (recursos humanos e institucionales para responder).
+
+***Metodología - 3 fases:***
+
+1.  ***Fase 1 - Monitor de Sequía:*** Revisión registros mensuales del ***Monitor de Sequía en México (MSM) de CONAGUA*** de enero 2003 a diciembre 2022. El MSM clasifica sequía según índices: SPI, Anomalía de Lluvia %, VHI (Índice Satelital Salud Vegetación), Modelo Humedad Suelo Leaky Bucket CPC-NOAA, NDVI, Anomalía Temperatura Media, % Disponibilidad Agua en presas y aportación de expertos. Categorías: D0 anormalmente seco (20 a ≤30 percentil), D1 sequía moderada (10 a ≤20), D2 severa (5 a ≤10), D3 extrema (2 a ≤5), D4 excepcional (≤2). Se mapearon con SIG los municipios con mayor incidencia.
+
+2.  ***Fase 2 - Índices Climáticos RClimDex:*** Análisis de variables meteorológicas de estaciones CONAGUA con software ***RClimDex*** (27 índices) para municipios con sequía extrema en 2019: Francisco Z. Mena, Jalpan, Pantepec, Tlacuilotepec, Xicotepec, Zihuateutla y Venustiano Carranza. Solo Pantepec y Xicotepec tenían datos completos. Se seleccionaron 3 índices: ***SU25*** (días con T° \>25°C), ***CDD*** (días secos consecutivos) y ***TMAXmean*** (promedio T° máxima). Series históricas desde 1947, 1977 y 1982 hasta 2020, con 60% de datos disponibles.
+
+3.  ***Fase 3 - Socioeconómico**:* Revisión de población total, rezago educativo, pobreza y grado de marginación con bases de INEGI, CONAPO y CONEVAL para identificar sensibilidad y capacidad adaptativa.
+
+***Resultados principales:***
+
+-   ***Cobertura total:*** Los 217 municipios (100%) han presentado D0 y D1 entre 2003-2022. 215 municipios (99%) han presentado D2 severa, excepto Coxcatlán y Coyomeapan. *No se reportó D4 excepcional.*
+
+-   ***Sequía extrema D3:*** Solo ***25 municipios (12%)*** han presentado D3: Albino Zertuche, Atzitzintla, Chichiquila, Chila, Chila de la Sal, Chilchotla, Francisco Z. Mena, Guadalupe, Ixcamilpa de Guerrero, Jalpan, Lafragua, Pantepec, Petlalcingo, Piaxtla, Quimixtlán, San Miguel Ixitlán, San Pedro Yeloixtlahuaca, Tecomatlán, Tlacuilotepec, Tlahuapan, Tulcingo, Venustiano Carranza, Xicotepec, Xicotlán y Zihuateutla.
+
+-   ***Distribución espacial:***
+
+    -   *Mixteca poblana:* Mayor duración (7 meses) afectó 12 municipios en 2003.
+    -   *Valle Serdán:* 5 municipios en 2011.
+    -   *Sierra Norte (2019):* Francisco Z. Mena, Jalpan, Pantepec, Tlacuilotepec, Venustiano Carranza, Xicotepec y Zihuateutla. La D3 implica pérdidas mayores en cultivos/pastos, riesgo extremo de incendios forestales y restricción de uso de agua por escasez.
+
+-   ***Tendencias RClimDex**:* No muestran diferencias significativas, pero muestran alta variabilidad. Xicotepec: tendencia no lineal relacionada con aumentos de temperatura. Francisco Z. Mena: tendencia a disminuir en los 3 índices, con años críticos 2004 y 2011. Jalpan: tendencia a aumento en los 3 índices. Pantepec: aumento en CDD y SU25/TMAXmean. Se sugiere influencia de *El Niño Oscilación del Sur (ENOS)* que afecta patrones de viento, T° superficial del mar y precipitación en el Pacífico tropical por teleconexiones globales.
+
+***Conclusión:***
+
+En los últimos años se incrementaron los periodos de sequía afectando principalmente Sierra Norte, Nororiental y Mixteca poblana, incrementando vulnerabilidad climática, principalmente por ENOS. Es una aportación importante porque hay pocas investigaciones a nivel estatal que analicen MSM + RClimDex + datos socioeconómicos para detección de vulnerabilidad. Beneficia a tomadores de decisiones en gestión y manejo adecuado del recurso agua. Proponen crear índices específicos para Puebla y sistema de alerta temprana con modelos predictivos basados en datos meteorológicos confiables.
+
+***Palabras clave:*** *gestión del riesgo, monitor de sequía de CONAGUA, RClimDex.*
+
+## Referencias
+
+<https://www.revista-asyd.org/index.php/asyd/es/article/view/1627/875>
+
+------------------------------------------------------------------------
+
+### Abstract
+
+***Problem:***
+
+Droughts have caused damage across Puebla, generating economic, social and environmental consequences and causing social and political tensions over water use at local and municipal levels.
+
+***Objective:***
+
+To analyze main databases to identify drought exposure in Puebla as an important component of vulnerability and risk.
+
+***Methodology - 3 phases*** :
+
+1\. ***MSM Analysis (2003-2022)**:* Monthly records from Mexico Drought Monitor (CONAGUA) using SPI, Rainfall Anomaly %, VHI, Leaky Bucket Soil Moisture Model, NDVI, Temperature Anomaly, Reservoir Availability. Classification D0-D4 based on US Drought Monitor (USDM) and North America Drought Monitor (NADM).
+
+2\. ***RClimDex Climatic Indices**:* Analysis of CONAGUA weather stations with RClimDex software (27 indices, 3 selected: SU25 \>25°C days, CDD consecutive dry days, TMAXmean) for municipalities with extreme drought in 2019. Historical series 1947-2020 with 60% data completeness.
+
+3\. ***Socioeconomic:*** Population, educational lag, poverty, marginalization degree from INEGI, CONAPO, CONEVAL to assess sensitivity and adaptive capacity, matching IPCC (2012) vulnerability concept.
+
+***Key Results:***
+
+\- ***All 217 municipalities (100%)*** experienced D0 abnormally dry and D1 moderate drought 2003-2022. 215 municipalities experienced D2 severe drought, except Coxcatlán and Coyomeapan. No D4 exceptional drought reported.
+
+\- ***Extreme drought D3: Only 25 municipalities (12%)*** experienced it: listed above (Albino Zertuche, Atzitzintla, Chichiquila, etc.). Spatial pattern: Mixteca region longest duration (7 months, 12 municipalities in 2003), Valle Serdán 5 municipalities in 2011, Sierra Norte cluster in 2019 (Francisco Z. Mena, Jalpan, Pantepec, Tlacuilotepec, Venustiano Carranza, Xicotepec, Zihuateutla). D3 is characterized by major crop/pasture losses and extreme forest fire risk, requiring water use restrictions.
+
+\- ***Climatic trends**:* No significant differences but high variability. Trends suggest influence of El Niño Southern Oscillation (ENSO) affecting wind patterns, sea surface temperature and tropical Pacific precipitation through global teleconnections.
+
+***Conclusion**:*
+
+In recent years drought periods increased affecting mainly Sierra Norte, Northeastern and Mixteca regions, increasing climatic vulnerability mainly due to ENSO. This is a relevant contribution as few state-level studies combine MSM, RClimDex and socioeconomic data for drought vulnerability detection. It benefits decision-makers for adequate water resource management. The paper recommends developing Puebla-specific drought indices and early warning systems with reliable predictive models.
+
+## References:
+
+<https://www.revista-asyd.org/index.php/asyd/es/article/view/1627/875>

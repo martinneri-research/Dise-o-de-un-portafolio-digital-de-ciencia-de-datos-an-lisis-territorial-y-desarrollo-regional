@@ -1,0 +1,17 @@
+{
+  "hash": "b3a85c4e9689f1590017e4bd259f5161",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Automation of Fiscal Auditing in SMEs through a Sequential Algorithm for Extracting Tax Receipts: A Focus on the Digital Economy\"\n\nauthor: \"MARTIN NERI SUAREZ, José Gonzalo Ramírez Rosas,Miguel Ángel Torres González\"\ndate: \"2026-09-15\"\ncategories: [Ciencia de datos, Algoritmos y Optimización]\n\n---\n\n\n## hola¡\n\nEste es **mi primer post.**\n\n_yessica xochimitl_\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1+1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\n### REFERENCIA\n\nhttps://music.youtube.com/watch?v=oSBSpSOh6lQ&list=RDAMVMoSBSpSOh6lQ\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

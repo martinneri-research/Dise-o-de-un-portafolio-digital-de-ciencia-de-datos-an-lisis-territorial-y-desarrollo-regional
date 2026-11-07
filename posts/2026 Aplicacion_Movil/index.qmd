@@ -1,0 +1,114 @@
+---
+title: "Application for Economic Management and SME Digitalization in Juan C. Bonilla, Puebla."
+
+author: "Martín Neri-Suárez"
+categories: [Ciencia de datos, Algoritmos, Optimización]
+---
+
+## ![](images/Captura%20de%20pantalla%202026-10-17%20220814.png)
+
+## Resumen
+
+**Objetivo:** Describir el desarrollo tecnológico de una aplicación móvil con **AppSheet (herramienta no-code de Google)** para facilitar la gestión de información y digitalización de PyMEs en el municipio.
+
+
+**Problemática:** Juan C. Bonilla es un municipio en el centro-oeste de Puebla, en la región Izta-Popo, con altos índices de pobreza a pesar de estar rodeado de corredores industriales. En 2020, 51.4% pobreza moderada, 10.4% pobreza extrema. No existe un registro actualizado y georreferenciado de las unidades económicas (PyMEs), lo que limita la planificación territorial, la formalización y las políticas públicas. Además, desarrollar una app nativa en Kotlin (Android) y Xcode (iOS) requiere conocimientos avanzados que el personal municipal no tiene.
+
+
+**Metodología - 5 Fases:**
+
+-   Diagnóstico: Análisis de la situación económica local y necesidades del municipio.
+
+-   Integración de datos económicos y georreferenciados: Se integraron datos del INEGI (DENUE 2024) con coordenadas, sector, tipo de negocio, dirección.
+
+-   Diseño de funcionalidades clave: Personalización de interfaz: colores, tipografía, íconos, tipos de datos. Se diseñó menú interactivo con barras horizontales y verticales por categorías y sectores económicos.
+
+-   Despliegue de la app: Creación en AppSheet y pruebas de compatibilidad.
+
+-   Evaluación operativa: Pruebas en dos dispositivos: Android y iOS para verificar uso, rendimiento y experiencia de usuario.
+
+    **Resultados - Funcionalidades principales:**
+
+-   App compatible con Android e iOS, accesible para Presidente Municipal, Regidores y Síndicos.
+
+-   Vista principal con categorías: Biblioteca, Comercio al por menor, Medios masivos, Servicios Financieros, Transportes, etc.
+
+-   Navegación geográfica con Google Maps: Función estrella de arrastrar un ícono de "hombrecito naranja" hacia un globo de negocio para verlo en Street View y calcular ruta.
+
+-   Filtros informativos y búsqueda por sector económico.
+
+-   Registro de nuevas unidades económicas: Formulario con ID, Nombre de empresa, Tipo, Dirección, Localización, Estatus.
+
+-   Sistema de semaforización basado en índices delictivos: Permite visualizar zonas inseguras para proteger PyMEs y tomar decisiones de seguridad.
+
+-   Base de datos actualizable en tiempo real desde Google Sheets.
+
+    **Discusión e Impacto en toma de decisiones:**
+
+    La app optimiza la gestión económica municipal al dar un registro dinámico y actualizado. Facilita la planificación estratégica con mapas en tiempo real, mejora la seguridad con el análisis delictivo y permite asignar recursos de forma más eficiente. Se recomienda capacitación para alfabetización digital de los usuarios.
+
+    **Conclusiones:**
+
+    1.  La innovación tecnológica con herramientas no-code como AppSheet democratiza el desarrollo. Municipios con presupuesto reducido pueden implementar soluciones con inversión mínima y alto impacto funcional.
+
+    2.  La app integra visualización geográfica + cálculo de rutas + semaforización delictiva, optimizando la toma de decisiones y fomentando la formalización de PyMEs.
+
+    3.  Es un modelo replicable y adaptable para otros municipios con características similares, contribuyendo al cierre de brechas de desigualdad y a un futuro más equitativo.
+
+    4.  La tecnología es motor de desarrollo social y económico, no solo mejora la gestión sino que construye sostenibilidad.
+
+        **Palabras clave:** *desarrollo económico local, digitalización económica, geografía económica, innovación tecnológica, PyMEs*
+
+        ## Abstract
+
+        **Context:**
+
+        Juan C. Bonilla, Puebla (Izta-Popo region) shows high poverty rates (51.4% moderate, 10.4% extreme poverty in 2020) despite being surrounded by industrial corridors. There is no updated, georeferenced registry of SMEs, limiting territorial planning. Native development in Kotlin/Xcode is too complex for non-specialized municipal staff.
+
+        **Objective:**
+
+    5.  To describe the development of a mobile app built with **AppSheet (Google's no-code platform)** to manage information and digitize SMEs.
+
+    ```         
+    **Methodology - 5 phases:**
+
+    -   Needs assessment
+
+    <!-- -->
+
+    -    Integration of economic and georeferenced data from INEGI
+
+    <!-- -->
+
+    -   Design of key features (UI customization)
+
+    <!-- -->
+
+    -   App deployment
+
+    <!-- -->
+
+    -    Operational evaluation on Android and iOS.
+
+    **Results:**
+
+    -   Functional app for both Android and iOS.
+
+    -   Interactive menu with economic sectors.
+
+    -   Google Maps integration: Navigation between businesses, drag-and-drop Street View man icon, route calculation.
+
+    -   Informational filters and search.
+
+    -   Registration of new economic units via form.
+
+    -   Traffic-light system based on crime indices to identify priority areas for security policies.
+
+    -   Real-time database.
+
+        **Conclusion:** Using no-code tools like AppSheet demonstrates how technological democratization allows low-budget municipalities to implement innovative solutions with minimal investment and notable functional impact. The app optimizes planning, supports economic inclusion in poverty contexts, fosters SME formalization, and offers a replicable model for other similar municipalities.
+
+    ## References:
+
+    https://cienciaergosum.uaemex.mx/article/view/25646
+    ```

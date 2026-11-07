@@ -1,0 +1,81 @@
+---
+title: "Clasificación de datos de cotización de la bolsa mexicana de valores usando aprendizaje automático"
+author: "Martin Neri-Suárez"
+categories: [Ciencia de datos, Algoritmos, Optimización]
+
+format: html
+---
+
+## ![](images/images.jpg){width="704"}
+
+## Resumen
+
+**Objetivo:** Crear un sistema que clasifique si conviene o no invertir en acciones de la BMV usando aprendizaje automático.
+
+**Datos utilizados:** Se recopilaron datos históricos de cotización de **5 empresas de la BMV: BIMBO, CHEDRAUI, FEMSA, SORIANA y WALMEX.** En promedio **3,700 registros por empresa**.
+
+Atributos por registro: precio de apertura, precio bajo, precio alto, precio de cierre, volumen de operaciones, rentabilidad, volatilidad y un *atributo de decisión binario: SÍ / NO invertir.*
+
+**Metodología en 3 etapas**:
+
+-   Etapa 1 - Recolección: Descarga de datos históricos de cotización e indicadores financieros esenciales.
+
+-   Etapa 2 - Diseño experimental: Cada algoritmo se ejecutó 5 veces de forma independiente cambiando el random seed. El rendimiento final es el promedio de esas 5 ejecuciones, usando validación cruzada de 10 folds (50 experimentaciones por algoritmo).
+
+-   Etapa 3 - Análisis en *WEKA*: Se procesaron los datos en *WEKA*, plataforma de minería de datos. Se usaron hiperparámetros por defecto para tener una primera aproximación sin ajustes manuales.
+
+    **Algoritmos comparados y resultados de clasificación correcta:**
+
+    +------------------------------+-----------+--------------+-----------+-------------+------------+
+    |                              | BIMBO (%) | CHEDRAUI (%) | FEMSA (%) | SORIANA (%) | WALMEX (%) |
+    +==============================+===========+==============+===========+=============+============+
+    | Árboles de decisión          | 99.9      | 99.9         | 99.9      | 100         | 100        |
+    +------------------------------+-----------+--------------+-----------+-------------+------------+
+    | Clasificador Simple de Bayes | 94.5      | 95.7         | 92.7      | 91.2        | 96.5       |
+    +------------------------------+-----------+--------------+-----------+-------------+------------+
+    | K-vecinos más cercanos       | 92.8      | 95.7         | 91.1      | 90.4        | 95.9       |
+    +------------------------------+-----------+--------------+-----------+-------------+------------+
+    | MVS                          | 98.3      | 97.9         | 97.7      | 91.4        | 98.8       |
+    +------------------------------+-----------+--------------+-----------+-------------+------------+
+    | Redes                        | 97.7      | 98.4         | 97.9      | 96.9        | 98.3       |
+    |                              |           |              |           |             |            |
+    | Neuronales                   |           |              |           |             |            |
+    +------------------------------+-----------+--------------+-----------+-------------+------------+
+
+**Conclusión:**
+
+El modelo de *Árboles de Decisión* fue el más efectivo con casi 100% de aciertos en todas las empresas. Demuestra que con indicadores básicos (OHLC, volumen, rentabilidad, volatilidad) se puede construir un clasificador binario confiable para apoyar decisiones de inversión en la Bolsa Mexicana de Valores, ideal como sistema de apoyo para inversionistas minoristas.
+
+## Abstract
+
+**Objective:**To build a system that classifies whether to invest or not in BMV stocks using machine learning.
+
+**Dataset:** Historical data from **5 BMV companies: BIMBO, CHEDRAUI, FEMSA, SORIANA, WALMEX** - average 3,700 records per company. Features: open, low, high, close, volume, profitability, volatility, and a *binary decision attribute: YES/NO invest.*
+
+**Methodology:**
+
+1.  Data collection of historical quotations.
+
+2.  Experimental design: 5 independent runs per algorithm with different random seed, 10-fold cross-validation (50 experiments per algorithm)
+
+3.  .Analysis with *WEKA* data mining tool using default hyperparameters.
+
+    **Results:**
+
+    -   Decision Trees: 99.9% - 100% accuracy (best performer)
+
+    -   Naive Bayes: 91.2% - 96.5%
+
+    -   K-Nearest Neighbors: 90.4% - 95.9%
+
+    -   SVM (MVS): 91.4% - 98.8%
+
+    -   Neural Networks: 96.9% - 98.4%
+
+        **Conclusion:**
+
+        Decision Trees provide an almost perfect classification for this type of financial data, proving that basic technical indicators can support retail investment decisions on the Mexican Stock Exchange.
+
+        ### References:
+
+        <https://www.rcs.cic.ipn.mx/2025_154_7/RCS_154_7_2025.pdf>
