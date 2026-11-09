@@ -1,6 +1,6 @@
 ---
 title: "IMPACTO DEL NEARSHORING EN EL EMPLEO Y EL SECTOR ALIMENTARIO EN PUEBLA Y TLAXCALA."
-author: "MARTIN NERI SUAREZ"
+author: "Martin Neri-Suárez"
 categories: [Análisis territorial urbano y socioeconómico]
 ---
 

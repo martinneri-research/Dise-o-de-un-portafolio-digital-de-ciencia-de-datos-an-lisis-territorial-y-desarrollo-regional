@@ -1,6 +1,6 @@
 ---
 title: "REPRESENTATIVIDAD ECOLÓGICA DE LAS ÁREAS NATURALES PROTEGIDAS DEL ESTADO DE PUEBLA, MÉXICO"
-author: "MARTIN NERI SUAREZ"
+author: "Martin Neri-Suárez"
 categories: [Agricultura, Turismo, Desarrollo Regional]
 ---
 

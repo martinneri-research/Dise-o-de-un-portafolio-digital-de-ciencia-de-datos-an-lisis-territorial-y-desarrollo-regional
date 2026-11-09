@@ -1,7 +1,6 @@
 ---
 title: "Análisis de vacíos y omisiones de conservación de las áreas naturales protegidas del estado de Guerrero, México"
 author: "Martin Neri-Suárez"
-date: "2026-09-15"
 categories: [Agricultura, Turismo, Desarrollo Regional]
 ---
 
@@ -9,9 +8,7 @@ categories: [Agricultura, Turismo, Desarrollo Regional]
 
 ## RESUMEN
 
-***Objetivo***
-
-Evaluar los vacíos y omisiones de conservación (análisis gap) de los tipos de vegetación con respecto a las Áreas Naturales Protegidas (ANP) del estado de Guerrero, México.
+**Objetivo:** Evaluar los vacíos y omisiones de conservación (análisis gap) de los tipos de vegetación con respecto a las Áreas Naturales Protegidas (ANP) del estado de Guerrero, México.
 
 ***Contexto***
 
